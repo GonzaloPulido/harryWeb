@@ -143,4 +143,22 @@ main {
   font-size: 22px;
 }
 
+@media (max-width: 1400px) {
+  .apartados_head {
+    font-size: 40px;
+  }
+
+  .iconos_head {
+    width: 6%;
+  }
+
+  .apartados_foot {
+    font-size: 40px;
+  }
+
+  .iconos_foot {
+    width: 8%;
+  }
+}
+
 /*# sourceMappingURL=contactanos.cf7591e5.css.map */
