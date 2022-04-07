@@ -41,11 +41,46 @@ header {
 }
 
 .apartados_head {
-  color: #ffbf00;
   justify-content: space-between;
   font-family: Harry P;
   font-size: 45px;
   display: flex;
+}
+
+.apartados_head > li > a {
+  color: #ffbf00;
+}
+
+.iconos_head {
+  width: 4%;
+  color: #ffbf00;
+  justify-content: space-between;
+  font-size: 25px;
+  display: flex;
+}
+
+footer {
+  height: 140px;
+  background-image: url("fondo_head.83db2080.png");
+  justify-content: space-between;
+  align-items: center;
+  padding: 45px;
+  display: flex;
+}
+
+.nav_footer {
+  width: 60%;
+}
+
+.apartados_foot {
+  justify-content: space-between;
+  font-family: Harry P;
+  font-size: 45px;
+  display: flex;
+}
+
+.apartados_foot > li > a {
+  color: #ffbf00;
 }
 
 /*# sourceMappingURL=contactanos.cf7591e5.css.map */

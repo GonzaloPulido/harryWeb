@@ -1,3 +1,7 @@
+//--------- VARIABLES ---------
+$amarillo: #FFBF00
+//--------- VARIABLES ---------
+
 // --------- FORMATEO ---------
 *
     margin: 0
@@ -22,7 +26,7 @@ a:link, a:visited, a:active
     font-style: normal
 // --------- FUENTES ---------
 
-// --------- HEADER FOOTER ---------
+// --------- HEADER ---------
 .logo
     width: 85px
 header
@@ -37,9 +41,38 @@ header
 
 .apartados_head
     font-family: "Harry P"
-    color: #FFBF00
+    font-size: 45px
+    display: flex
+    justify-content: space-between
+.apartados_head>li>a
+    color: $amarillo
+
+.iconos_head
+    width: 4%
+    font-size: 25px
+    display: flex
+    justify-content: space-between
+    color: $amarillo
+// --------- HEADER ---------
+
+// --------- FOOTER ---------
+footer
+    height: 140px
+    padding: 45px
+    display: flex
+    align-items: center
+    justify-content: space-between
+    background-image: url("../img/fondo_head.png")
+
+.nav_footer
+    width: 60%
+
+.apartados_foot
+    font-family: "Harry P"
     font-size: 45px
     display: flex
     justify-content: space-between
 
-// --------- HEADER FOOTER ---------
+.apartados_foot>li>a
+    color: $amarillo
+// --------- FOOTER ---------
