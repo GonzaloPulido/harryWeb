@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+a:link, a:visited, a:active {
+  text-decoration: none;
+}
+
+@font-face {
+  font-family: Harry P;
+  src: url("Harry.fd2febcc.TTF") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Benne;
+  src: url("Benne.d8dcc53c.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.logo {
+  width: 85px;
+}
+
+header {
+  height: 140px;
+  background-image: url("fondo_head.83db2080.png");
+  justify-content: space-between;
+  align-items: center;
+  padding: 45px;
+  display: flex;
+}
+
+.nav_header {
+  width: 60%;
+}
+
+.apartados_head {
+  color: #ffbf00;
+  justify-content: space-between;
+  font-family: Harry P;
+  font-size: 45px;
+  display: flex;
+}
+
+/*# sourceMappingURL=contactanos.cf7591e5.css.map */

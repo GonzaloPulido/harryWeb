@@ -1,0 +1,15 @@
+{
+  "name": "Web Harry Potter",
+  "source": "src/index.html",
+  "browserslist": "> 0.3%, last 3 versions, not dead",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build",
+    "clean": "rimraf dist .cache .parcel-cache"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.3.1",
+    "parcel": "^2.3.1",
+    "rimraf": "^3.0.2"
+  }
+}
