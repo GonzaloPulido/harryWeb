@@ -87,16 +87,16 @@ footer
 
 //--------- MAIN ---------
 main
-    background-image: url("../img/fondo_body.jpg")
+    padding: 2%
     min-height: 75vh
+    background-image: url(../img/fondo_body.jpg)
+    background-size: cover
+    background-repeat: no-repeat
+    background-position: center center
 //--------- MAIN ---------
 
 
-
 //--------- INICIO ---------
-#section_inicio
-    padding: 20px
-
 #inicio
     padding: 30px
     margin: auto
@@ -148,16 +148,46 @@ main
     width: 95%
     margin: auto
 .casas
+    height: 40vh
     border: 3px solid black
     border-radius: 15px
     display: flex
     align-items: center
-    justify-content: space-between
+    justify-content: space-around
     padding: 25px
 .titulo_casa
     text-align: center
+    font-family: Benne
+    font-size: 25px
+.container_casa
+    height: 100%
+    display: flex
+    flex-direction: column
+    justify-content: space-around
+
 
 // --------- CASAS ---------
+
+// --------- LISTADOS ---------
+.padre_listados
+    display: flex
+    align-items: center
+    justify-content: space-around
+    flex-wrap: wrap
+.elemento
+    padding: 16px
+    border: 3px solid black
+    border-radius: 15px
+    width: 25vw
+    display: flex
+    align-items: center
+
+.foto
+    width: 50px
+.firma
+    width: 50px
+
+// --------- LISTADOS ---------
 
 
 
