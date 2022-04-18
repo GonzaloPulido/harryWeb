@@ -1,21 +1,78 @@
-4390
-46/home/vant/Escritorio/harryWeb/dist/index.html1648713451905947639 0
-60/home/vant/Escritorio/harryWeb/dist/harryWeb.59712999.js.map1648713451941947783 0
+4526
+61/home/vant/Escritorio/harryWeb/dist/severus_snape.2df3caa9.js1649331262668832021 0
+65/home/vant/Escritorio/harryWeb/dist/firma_mcgonagall.a55e81e6.png1649331262488832091 0
+52/home/vant/Escritorio/harryWeb/dist/estudiantes.html1649331262452832105 0
+61/home/vant/Escritorio/harryWeb/dist/varita_snape.ac1c1c55.png1649331262668832021 0
+57/home/vant/Escritorio/harryWeb/dist/ravenclaw.dada6270.js1649331262484832093 0
+55/home/vant/Escritorio/harryWeb/dist/sirius.4f936625.jpg1649331262632832035 0
+63/home/vant/Escritorio/harryWeb/dist/estudiantes.f319ef6f.js.map1649331262624832038 0
+60/home/vant/Escritorio/harryWeb/dist/firma_snape.2c2316f1.png1649331262668832021 0
+64/home/vant/Escritorio/harryWeb/dist/albus_dumbledore.6b8c2312.js1649331262620832040 0
+65/home/vant/Escritorio/harryWeb/dist/rubeus_hagrid.e19f25cc.js.map1649331262616832041 0
+55/home/vant/Escritorio/harryWeb/dist/ginny.4406de89.jpeg1649331262488832091 0
+53/home/vant/Escritorio/harryWeb/dist/casas.cad43ff5.js1649331262668832021 0
+63/home/vant/Escritorio/harryWeb/dist/firma_hermione.95d0b54e.png1649331262488832091 0
+62/home/vant/Escritorio/harryWeb/dist/varita_hagrid.9f4533a4.png1649331262488832091 0
+59/home/vant/Escritorio/harryWeb/dist/firma_luna.97b1ab58.png1649331262608832044 0
+59/home/vant/Escritorio/harryWeb/dist/mcgonagall.88bcb756.jpg1649331262608832044 0
+57/home/vant/Escritorio/harryWeb/dist/caratula.b44ca62a.jpg1649331262624832038 0
+51/home/vant/Escritorio/harryWeb/dist/griffindor.html1649331262576832057 0
+61/home/vant/Escritorio/harryWeb/dist/varita_draco.af8a1331.png1649331262668832021 0
+59/home/vant/Escritorio/harryWeb/dist/fondo_body.cc497811.jpg1649331262620832040 0
+64/home/vant/Escritorio/harryWeb/dist/hermione_granger.9cd69b07.js1649331262608832044 0
+55/home/vant/Escritorio/harryWeb/dist/cedric.0e7de6d8.jpg1649331262668832021 0
+59/home/vant/Escritorio/harryWeb/dist/dumbledore.c65e67fe.png1649331262688832013 0
+65/home/vant/Escritorio/harryWeb/dist/varita_voldemort.fdab1067.png1649331262668832021 0
+55/home/vant/Escritorio/harryWeb/dist/cedric_diggory.html1649331262668832021 0
+57/home/vant/Escritorio/harryWeb/dist/cho_chang.d5269f43.js1649331262608832044 0
+61/home/vant/Escritorio/harryWeb/dist/slytherin.4a531484.js.map1649331262676832018 0
+46/home/vant/Escritorio/harryWeb/dist/index.html1649331262452832105 0
+60/home/vant/Escritorio/harryWeb/dist/firma_ginny.1f0a3f69.png1649331262612832043 0
+66/home/vant/Escritorio/harryWeb/dist/neville_longbottom.d8682c35.js1649331262608832044 0
+64/home/vant/Escritorio/harryWeb/dist/harry_potter.1531eb24.js.map1649331262496832088 0
+61/home/vant/Escritorio/harryWeb/dist/rubeus_hagrid.e19f25cc.js1649331262608832044 0
+59/home/vant/Escritorio/harryWeb/dist/varita_cho.4a9c7250.png1649331262488832091 0
+64/home/vant/Escritorio/harryWeb/dist/firma_voldemort.758c411f.png1649331262668832021 0
+59/home/vant/Escritorio/harryWeb/dist/neville_longbottom.html1649331262576832057 0
+64/home/vant/Escritorio/harryWeb/dist/varita_hermione.b1f85ead.png1649331262488832091 0
+61/home/vant/Escritorio/harryWeb/dist/ravenclaw.dada6270.js.map1649331262500832086 0
+57/home/vant/Escritorio/harryWeb/dist/slytherin.4a531484.js1649331262668832021 0
+54/home/vant/Escritorio/harryWeb/dist/snape.bff4ef97.jpg1649331262668832021 0
+46/home/vant/Escritorio/harryWeb/dist/casas.html1649331262452832105 0
+52/home/vant/Escritorio/harryWeb/dist/contactanos.html1649331262576832057 0
+60/home/vant/Escritorio/harryWeb/dist/harryWeb.59712999.js.map1649331262624832038 0
+66/home/vant/Escritorio/harryWeb/dist/iniciar_sesion.9c313547.js.map1649331262624832038 0
+65/home/vant/Escritorio/harryWeb/dist/severus_snape.2df3caa9.js.map1649331262676832018 0
+63/home/vant/Escritorio/harryWeb/dist/logo_ravenclaw.91133309.png1649331262668832021 0
+60/home/vant/Escritorio/harryWeb/dist/trabajadores.929c33bd.js1649331262620832040 0
+68/home/vant/Escritorio/harryWeb/dist/albus_dumbledore.6b8c2312.js.map1649331262624832038 0
+57/home/vant/Escritorio/harryWeb/dist/todos_personajes.html1649331262576832057 0
+70/home/vant/Escritorio/harryWeb/dist/neville_longbottom.d8682c35.js.map1649331262616832041 0
+59/home/vant/Escritorio/harryWeb/dist/varita_ron.d917955c.png1649331262608832044 0
+49/home/vant/Escritorio/harryWeb/dist/registro.html1649331262620832040 0
+57/home/vant/Escritorio/harryWeb/dist/albus_dumbledore.html1649331262668832021 0
+62/home/vant/Escritorio/harryWeb/dist/cedric_diggory.59dcddbb.js1649331262668832021 0
+59/home/vant/Escritorio/harryWeb/dist/contactanos.eda3caba.js1649331262484832093 0
+58/home/vant/Escritorio/harryWeb/dist/tom_riddle.3c05e664.js1649331262668832021 0
+60/home/vant/Escritorio/harryWeb/dist/firma_draco.25e40357.png1649331262668832021 0
+58/home/vant/Escritorio/harryWeb/dist/griffindor.28eaccc3.js1649331262484832093 0
 47/home/vant/Escritorio/harryWeb/.idea/.gitignore1648709484986728323 0
-36/home/vant/Escritorio/harryWeb/.idea1649310242391992292 1
-49/home/vant/Escritorio/harryWeb/src/ravenclaw.html1649310378391988038 0
-51/home/vant/Escritorio/harryWeb/src/ron_weasley.html1648716856903091809 0
-49/home/vant/Escritorio/harryWeb/src/slytherin.html1649310597799981175 0
-50/home/vant/Escritorio/harryWeb/src/griffindor.html1649310378375988039 0
-54/home/vant/Escritorio/harryWeb/src/iniciar_sesion.html1649239052688627196 0
-43/home/vant/Escritorio/harryWeb/src/404.html1649239128896624813 0
-52/home/vant/Escritorio/harryWeb/src/trabajadores.html1649238776959923254 0
-58/home/vant/Escritorio/harryWeb/src/neville_longbottom.html1649237778467954487 0
-58/home/vant/Escritorio/harryWeb/src/minerva_mcgonagall.html1649237037259977673 0
-45/home/vant/Escritorio/harryWeb/src/casas.html1649238872451920267 0
-51/home/vant/Escritorio/harryWeb/src/contactanos.html1649239019839915657 0
-49/home/vant/Escritorio/harryWeb/src/cho_chang.html1649237307131969231 0
-52/home/vant/Escritorio/harryWeb/src/harry_potter.html1648716555044218342 0
+44/home/vant/Escritorio/harryWeb/.idea/vcs.xml1649316694212617155 0
+53/home/vant/Escritorio/harryWeb/.idea/watcherTasks.xml1649313233314773402 0
+36/home/vant/Escritorio/harryWeb/.idea1649331870668258704 1
+49/home/vant/Escritorio/harryWeb/src/ravenclaw.html1649318097177775561 0
+51/home/vant/Escritorio/harryWeb/src/ron_weasley.html1649318097113775760 0
+49/home/vant/Escritorio/harryWeb/src/slytherin.html1649318097189775524 0
+50/home/vant/Escritorio/harryWeb/src/griffindor.html1649318097213775450 0
+54/home/vant/Escritorio/harryWeb/src/iniciar_sesion.html1649318097057775933 0
+43/home/vant/Escritorio/harryWeb/src/404.html1649318097141775673 0
+52/home/vant/Escritorio/harryWeb/src/trabajadores.html1649318097049775958 0
+58/home/vant/Escritorio/harryWeb/src/neville_longbottom.html1649318097061775921 0
+58/home/vant/Escritorio/harryWeb/src/minerva_mcgonagall.html1649318097133775698 0
+45/home/vant/Escritorio/harryWeb/src/casas.html1649318097197775500 0
+51/home/vant/Escritorio/harryWeb/src/contactanos.html1649318097125775723 0
+49/home/vant/Escritorio/harryWeb/src/cho_chang.html1649318097069775896 0
+52/home/vant/Escritorio/harryWeb/src/harry_potter.html1649318097093775822 0
 75/home/vant/Escritorio/harryWeb/src/assets/img/sirius_black/firma_sirius.png1638957559493086000 0
 58/home/vant/Escritorio/harryWeb/src/assets/img/sirius_black1638448239147260000 1
 71/home/vant/Escritorio/harryWeb/src/assets/img/mcgonagall/mcgonagall.jpg1638356915881991000 0
@@ -45,10 +102,11 @@
 55/home/vant/Escritorio/harryWeb/src/assets/img/cho_chang1638468932507961000 1
 58/home/vant/Escritorio/harryWeb/src/assets/img/ron/Rony.jpg1637058422856593000 0
 49/home/vant/Escritorio/harryWeb/src/assets/img/ron1637058471052469000 1
+64/home/vant/Escritorio/harryWeb/dist/trabajadores.929c33bd.js.map1649331262624832038 0
 58/home/vant/Escritorio/harryWeb/src/assets/img/caratula.jpg1634310127289709000 0
 77/home/vant/Escritorio/harryWeb/src/assets/img/dumbledore/firma_dumbledore.png1637271345423957000 0
 56/home/vant/Escritorio/harryWeb/src/assets/img/dumbledore1637271355403829000 1
-61/home/vant/Escritorio/harryWeb/src/assets/styles/estilos.sass1648713736138671835 0
+61/home/vant/Escritorio/harryWeb/src/assets/styles/estilos.sass1649331916044198122 0
 47/home/vant/Escritorio/harryWeb/src/assets/fonts1637572644439006000 1
 68/home/vant/Escritorio/harryWeb/node_modules/to-regex-range/README.md499162500000000000 0
 66/home/vant/Escritorio/harryWeb/node_modules/to-regex-range/LICENSE499162500000000000 0
@@ -59,6 +117,7 @@
 59/home/vant/Escritorio/harryWeb/node_modules/posthtml-parser1648713418793807781 1
 63/home/vant/Escritorio/harryWeb/node_modules/semver/CHANGELOG.md499162500000000000 0
 54/home/vant/Escritorio/harryWeb/node_modules/semver/bin1648713418685807301 1
+68/home/vant/Escritorio/harryWeb/dist/todos_personajes.f2e333e0.js.map1649331262624832038 0
 60/home/vant/Escritorio/harryWeb/node_modules/semver/README.md499162500000000000 0
 50/home/vant/Escritorio/harryWeb/node_modules/semver1648713418789807763 1
 55/home/vant/Escritorio/harryWeb/node_modules/fs.realpath1648713418717807443 1
@@ -101,6 +160,7 @@
 71/home/vant/Escritorio/harryWeb/node_modules/htmlparser2/lib/Parser.d.ts499162500000000000 0
 68/home/vant/Escritorio/harryWeb/node_modules/htmlparser2/lib/index.js499162500000000000 0
 59/home/vant/Escritorio/harryWeb/node_modules/htmlparser2/lib1648713418901808260 1
+70/home/vant/Escritorio/harryWeb/dist/minerva_mcgonagall.6dfdd676.js.map1649331262616832041 0
 63/home/vant/Escritorio/harryWeb/node_modules/escalade/index.d.ts499162500000000000 0
 62/home/vant/Escritorio/harryWeb/node_modules/escalade/readme.md499162500000000000 0
 66/home/vant/Escritorio/harryWeb/node_modules/escalade/dist/index.js499162500000000000 0
@@ -187,11 +247,13 @@
 74/home/vant/Escritorio/harryWeb/node_modules/electron-to-chromium/README.md499162500000000000 0
 73/home/vant/Escritorio/harryWeb/node_modules/electron-to-chromium/index.js499162500000000000 0
 72/home/vant/Escritorio/harryWeb/node_modules/electron-to-chromium/LICENSE499162500000000000 0
+65/home/vant/Escritorio/harryWeb/dist/luna_lovegood.fb7af59c.js.map1649331262500832086 0
 78/home/vant/Escritorio/harryWeb/node_modules/electron-to-chromium/versions.json499162500000000000 0
 85/home/vant/Escritorio/harryWeb/node_modules/electron-to-chromium/chromium-versions.js499162500000000000 0
 56/home/vant/Escritorio/harryWeb/node_modules/glob/sync.js499162500000000000 0
 58/home/vant/Escritorio/harryWeb/node_modules/glob/README.md499162500000000000 0
 72/home/vant/Escritorio/harryWeb/node_modules/.bin/node-gyp-build-optional1648713419637811520 0
+65/home/vant/Escritorio/harryWeb/dist/firma_dumbledore.8e1e3fa6.png1649331262624832038 0
 55/home/vant/Escritorio/harryWeb/node_modules/.bin/semver1648713419637811520 0
 55/home/vant/Escritorio/harryWeb/node_modules/.bin/terser1648713419637811520 0
 60/home/vant/Escritorio/harryWeb/node_modules/.bin/detect-libc1648713419637811520 0
@@ -211,6 +273,7 @@
 69/home/vant/Escritorio/harryWeb/node_modules/terser/dist/bundle.min.js499162500000000000 0
 55/home/vant/Escritorio/harryWeb/node_modules/terser/dist1648713419153809377 1
 68/home/vant/Escritorio/harryWeb/node_modules/terser/tools/domprops.js499162500000000000 0
+58/home/vant/Escritorio/harryWeb/dist/firma_ron.e9ce46a2.png1649331262612832043 0
 49/home/vant/Escritorio/harryWeb/.idea/harryWeb.iml1648709514558650221 0
 67/home/vant/Escritorio/harryWeb/node_modules/terser/tools/props.html499162500000000000 0
 56/home/vant/Escritorio/harryWeb/node_modules/terser/tools1648713419165809430 1
@@ -278,6 +341,7 @@
 76/home/vant/Escritorio/harryWeb/src/assets/img/neville_longbottom/neville.jpg1638469223772897000 0
 73/home/vant/Escritorio/harryWeb/node_modules/css-tree/lib/lexer/generic.js499162500000000000 0
 71/home/vant/Escritorio/harryWeb/node_modules/css-tree/lib/lexer/Lexer.js499162500000000000 0
+57/home/vant/Escritorio/harryWeb/dist/hogwarts.6155bff9.png1649331262508832083 0
 72/home/vant/Escritorio/harryWeb/node_modules/css-tree/lib/lexer/search.js499162500000000000 0
 71/home/vant/Escritorio/harryWeb/node_modules/css-tree/lib/lexer/index.js499162500000000000 0
 80/home/vant/Escritorio/harryWeb/node_modules/css-tree/lib/lexer/prepare-tokens.js499162500000000000 0
@@ -296,8 +360,10 @@
 79/home/vant/Escritorio/harryWeb/node_modules/css-tree/lib/syntax/atrule/media.js499162500000000000 0
 70/home/vant/Escritorio/harryWeb/node_modules/css-tree/lib/syntax/atrule1648713419197809572 1
 80/home/vant/Escritorio/harryWeb/node_modules/css-tree/lib/syntax/scope/default.js499162500000000000 0
+57/home/vant/Escritorio/harryWeb/dist/Hermione.93ecead5.jpg1649331262628832037 0
 81/home/vant/Escritorio/harryWeb/node_modules/css-tree/lib/syntax/scope/selector.js499162500000000000 0
 78/home/vant/Escritorio/harryWeb/node_modules/css-tree/lib/syntax/scope/index.js499162500000000000 0
+63/home/vant/Escritorio/harryWeb/dist/contactanos.eda3caba.js.map1649331262500832086 0
 69/home/vant/Escritorio/harryWeb/node_modules/css-tree/lib/syntax/scope1648713419209809625 1
 80/home/vant/Escritorio/harryWeb/node_modules/css-tree/lib/syntax/node/Selector.js499162500000000000 0
 82/home/vant/Escritorio/harryWeb/node_modules/css-tree/lib/syntax/node/WhiteSpace.js499162500000000000 0
@@ -307,7 +373,7 @@
 84/home/vant/Escritorio/harryWeb/node_modules/css-tree/lib/syntax/node/MediaFeature.js499162500000000000 0
 89/home/vant/Escritorio/harryWeb/node_modules/css-tree/lib/syntax/node/AttributeSelector.js499162500000000000 0
 77/home/vant/Escritorio/harryWeb/node_modules/css-tree/lib/syntax/node/Value.js499162500000000000 0
-53/home/vant/Escritorio/harryWeb/src/rubeus_hagrid.html1649237679543957582 0
+53/home/vant/Escritorio/harryWeb/src/rubeus_hagrid.html1649318097097775809 0
 83/home/vant/Escritorio/harryWeb/node_modules/css-tree/lib/syntax/node/Parentheses.js499162500000000000 0
 75/home/vant/Escritorio/harryWeb/node_modules/css-tree/lib/syntax/node/Url.js499162500000000000 0
 80/home/vant/Escritorio/harryWeb/node_modules/css-tree/lib/syntax/node/Operator.js499162500000000000 0
@@ -377,6 +443,7 @@
 78/home/vant/Escritorio/harryWeb/node_modules/svgo/plugins/removeStyleElement.js499162500000000000 0
 77/home/vant/Escritorio/harryWeb/node_modules/svgo/plugins/removeUselessDefs.js499162500000000000 0
 72/home/vant/Escritorio/harryWeb/node_modules/svgo/plugins/inlineStyles.js499162500000000000 0
+53/home/vant/Escritorio/harryWeb/dist/draco_malfoy.html1649331262668832021 0
 75/home/vant/Escritorio/harryWeb/node_modules/svgo/plugins/convertPathData.js499162500000000000 0
 81/home/vant/Escritorio/harryWeb/node_modules/svgo/plugins/moveGroupAttrsToElems.js499162500000000000 0
 74/home/vant/Escritorio/harryWeb/node_modules/svgo/plugins/preset-default.js499162500000000000 0
@@ -396,6 +463,7 @@
 81/home/vant/Escritorio/harryWeb/node_modules/svgo/lib/svgo/css-select-adapter.d.ts499162500000000000 0
 66/home/vant/Escritorio/harryWeb/node_modules/svgo/lib/svgo/jsAPI.js499162500000000000 0
 68/home/vant/Escritorio/harryWeb/node_modules/svgo/lib/svgo/jsAPI.d.ts499162500000000000 0
+50/home/vant/Escritorio/harryWeb/dist/slytherin.html1649331262668832021 0
 57/home/vant/Escritorio/harryWeb/node_modules/svgo/lib/svgo1648713419157809395 1
 67/home/vant/Escritorio/harryWeb/node_modules/svgo/lib/stringifier.js499162500000000000 0
 66/home/vant/Escritorio/harryWeb/node_modules/is-number/package.json499162500000000000 0
@@ -417,6 +485,7 @@
 60/home/vant/Escritorio/harryWeb/node_modules/css-tree/LICENSE499162500000000000 0
 62/home/vant/Escritorio/harryWeb/node_modules/mdn-data/README.md499162500000000000 0
 65/home/vant/Escritorio/harryWeb/node_modules/mdn-data/package.json499162500000000000 0
+64/home/vant/Escritorio/harryWeb/dist/draco_malfoy.f65a997e.js.map1649331262676832018 0
 52/home/vant/Escritorio/harryWeb/node_modules/mdn-data1648713419021808793 1
 82/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/wai-aria.js499162500000000000 0
 89/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/async-clipboard.js499162500000000000 0
@@ -476,6 +545,7 @@
 85/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/eventsource.js499162500000000000 0
 82/home/vant/Escritorio/harryWeb/node_modules/svgo/lib/svgo/css-style-declaration.js499162500000000000 0
 89/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/css-crisp-edges.js499162500000000000 0
+61/home/vant/Escritorio/harryWeb/dist/cho_chang.d5269f43.js.map1649331262616832041 0
 93/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/hardwareconcurrency.js499162500000000000 0
 83/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/css3-attr.js499162500000000000 0
 101/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/css-font-rendering-controls.js499162500000000000 0
@@ -502,6 +572,7 @@
 86/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/setimmediate.js499162500000000000 0
 80/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/dnssec.js499162500000000000 0
 97/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/focusin-focusout-events.js499162500000000000 0
+62/home/vant/Escritorio/harryWeb/dist/griffindor.28eaccc3.js.map1649331262496832088 0
 86/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/css-any-link.js499162500000000000 0
 100/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/same-site-cookie-attribute.js499162500000000000 0
 91/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/css-width-stretch.js499162500000000000 0
@@ -515,9 +586,11 @@
 83/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/atob-btoa.js499162500000000000 0
 79/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/mpeg4.js499162500000000000 0
 87/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/console-basic.js499162500000000000 0
+64/home/vant/Escritorio/harryWeb/dist/todos_personajes.f2e333e0.js1649331262620832040 0
 86/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/do-not-track.js499162500000000000 0
 95/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/css-container-queries.js499162500000000000 0
 103/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/background-repeat-round-space.js499162500000000000 0
+68/home/vant/Escritorio/harryWeb/dist/hermione_granger.9cd69b07.js.map1649331262616832041 0
 94/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/css-at-counter-style.js499162500000000000 0
 85/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/css-opacity.js499162500000000000 0
 90/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/css-color-adjust.js499162500000000000 0
@@ -593,6 +666,7 @@
 77/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/aac.js499162500000000000 0
 88/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/css-exclusions.js499162500000000000 0
 87/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/web-bluetooth.js499162500000000000 0
+57/home/vant/Escritorio/harryWeb/dist/hermione_granger.html1649331262576832057 0
 88/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/css-first-line.js499162500000000000 0
 84/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/matchmedia.js499162500000000000 0
 104/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/img-naturalwidth-naturalheight.js499162500000000000 0
@@ -618,7 +692,9 @@
 89/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/offscreencanvas.js499162500000000000 0
 89/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/css-reflections.js499162500000000000 0
 87/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/object-values.js499162500000000000 0
+60/home/vant/Escritorio/harryWeb/dist/varita_luna.078aac7e.png1649331262488832091 0
 90/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/css-unicode-bidi.js499162500000000000 0
+66/home/vant/Escritorio/harryWeb/dist/minerva_mcgonagall.6dfdd676.js1649331262608832044 0
 84/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/filesystem.js499162500000000000 0
 81/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/css-all.js499162500000000000 0
 87/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/css-selection.js499162500000000000 0
@@ -702,6 +778,7 @@
 75/home/vant/Escritorio/harryWeb/node_modules/css-tree/lib/parser/sequence.js499162500000000000 0
 91/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/channel-messaging.js499162500000000000 0
 85/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/input-event.js499162500000000000 0
+64/home/vant/Escritorio/harryWeb/dist/logo_hufflepuff.f9ddf8e0.png1649331262668832021 0
 95/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/background-attachment.js499162500000000000 0
 55/home/vant/Escritorio/harryWeb/node_modules/htmlparser21648713418857808065 1
 88/home/vant/Escritorio/harryWeb/node_modules/css-select/lib/pseudo-selectors/filters.d.ts499162500000000000 0
@@ -760,6 +837,7 @@
 83/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/svg-fonts.js499162500000000000 0
 77/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/wav.js499162500000000000 0
 85/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/audiotracks.js499162500000000000 0
+60/home/vant/Escritorio/harryWeb/dist/registro.ed1c4618.js.map1649331262624832038 0
 86/home/vant/Escritorio/harryWeb/node_modules/terser/node_modules/commander/package.json499162500000000000 0
 86/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/console-time.js499162500000000000 0
 94/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/css-media-resolution.js499162500000000000 0
@@ -769,7 +847,7 @@
 86/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/transforms2d.js499162500000000000 0
 86/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/css-counters.js499162500000000000 0
 79/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/regions/alt-eu.js499162500000000000 0
-56/home/vant/Escritorio/harryWeb/src/albus_dumbledore.html1649238341647936871 0
+56/home/vant/Escritorio/harryWeb/src/albus_dumbledore.html1649318097205775475 0
 51/home/vant/Escritorio/harryWeb/node_modules/globals1648713418793807781 1
 75/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/regions/PN.js499162500000000000 0
 79/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/regions/alt-na.js499162500000000000 0
@@ -803,6 +881,7 @@
 75/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/regions/UZ.js499162500000000000 0
 75/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/regions/MD.js499162500000000000 0
 75/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/regions/MO.js499162500000000000 0
+63/home/vant/Escritorio/harryWeb/dist/varita_neville.5ace7f8a.png1649331262488832091 0
 75/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/regions/VA.js499162500000000000 0
 75/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/regions/GT.js499162500000000000 0
 75/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/regions/KH.js499162500000000000 0
@@ -815,6 +894,7 @@
 79/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/regions/alt-sa.js499162500000000000 0
 75/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/regions/FO.js499162500000000000 0
 75/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/regions/IN.js499162500000000000 0
+51/home/vant/Escritorio/harryWeb/dist/tom_riddle.html1649331262668832021 0
 75/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/regions/BT.js499162500000000000 0
 93/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/css-in-out-of-range.js499162500000000000 0
 75/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/regions/LT.js499162500000000000 0
@@ -850,6 +930,7 @@
 95/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/text-underline-offset.js499162500000000000 0
 75/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/regions/HT.js499162500000000000 0
 75/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/regions/OM.js499162500000000000 0
+54/home/vant/Escritorio/harryWeb/dist/severus_snape.html1649331262668832021 0
 75/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/regions/UY.js499162500000000000 0
 75/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/regions/SD.js499162500000000000 0
 75/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/regions/CM.js499162500000000000 0
@@ -887,6 +968,7 @@
 75/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/regions/IL.js499162500000000000 0
 75/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/regions/TL.js499162500000000000 0
 75/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/regions/MQ.js499162500000000000 0
+52/home/vant/Escritorio/harryWeb/dist/cho.c0c74b19.jpg1649331262488832091 0
 87/home/vant/Escritorio/harryWeb/node_modules/terser/node_modules/source-map/CHANGELOG.md1526491483000000000 0
 75/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/regions/KE.js499162500000000000 0
 75/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/regions/BO.js499162500000000000 0
@@ -949,7 +1031,7 @@
 95/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/constraint-validation.js499162500000000000 0
 92/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/screen-orientation.js499162500000000000 0
 65/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/dist/lib1648713419329810156 1
-48/home/vant/Escritorio/harryWeb/src/assets/styles1648714870033722447 1
+48/home/vant/Escritorio/harryWeb/src/assets/styles1649331916052198111 1
 82/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/dist/unpacker/features.js499162500000000000 0
 80/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/dist/unpacker/region.js499162500000000000 0
 89/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/dist/unpacker/browserVersions.js499162500000000000 0
@@ -964,8 +1046,10 @@
 99/home/vant/Escritorio/harryWeb/node_modules/react-refresh/cjs/react-refresh-babel.production.min.js499162500000000000 0
 92/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/link-rel-prerender.js499162500000000000 0
 101/home/vant/Escritorio/harryWeb/node_modules/react-refresh/cjs/react-refresh-runtime.production.min.js499162500000000000 0
+60/home/vant/Escritorio/harryWeb/dist/contactanos.cf7591e5.css1649331737056426984 0
 96/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/indeterminate-checkbox.js499162500000000000 0
 98/home/vant/Escritorio/harryWeb/node_modules/react-refresh/cjs/react-refresh-runtime.development.js499162500000000000 0
+55/home/vant/Escritorio/harryWeb/dist/hagrid.8bc6eea9.jpg1649331262488832091 0
 66/home/vant/Escritorio/harryWeb/node_modules/react-refresh/babel.js499162500000000000 0
 73/home/vant/Escritorio/harryWeb/node_modules/react-refresh/build-info.json499162500000000000 0
 67/home/vant/Escritorio/harryWeb/node_modules/react-refresh/README.md499162500000000000 0
@@ -976,10 +1060,12 @@
 65/home/vant/Escritorio/harryWeb/node_modules/detect-libc/README.md1509269019000000000 0
 68/home/vant/Escritorio/harryWeb/node_modules/detect-libc/package.json1511345367000000000 0
 74/home/vant/Escritorio/harryWeb/node_modules/detect-libc/lib/detect-libc.js1511345367000000000 0
+62/home/vant/Escritorio/harryWeb/dist/varita_sirius.5e5b2588.png1649331262488832091 0
 63/home/vant/Escritorio/harryWeb/node_modules/detect-libc/LICENSE1499114711000000000 0
 66/home/vant/Escritorio/harryWeb/node_modules/detect-libc/.npmignore1509267863000000000 0
 66/home/vant/Escritorio/harryWeb/node_modules/mdn-data/l10n/index.js499162500000000000 0
 63/home/vant/Escritorio/harryWeb/node_modules/rimraf/CHANGELOG.md499162500000000000 0
+59/home/vant/Escritorio/harryWeb/dist/minerva_mcgonagall.html1649331262576832057 0
 63/home/vant/Escritorio/harryWeb/node_modules/rimraf/package.json499162500000000000 0
 78/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/flac.js499162500000000000 0
 75/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/regions/PA.js499162500000000000 0
@@ -988,6 +1074,7 @@
 75/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/regions/LV.js499162500000000000 0
 57/home/vant/Escritorio/harryWeb/node_modules/rimraf/bin.js499162500000000000 0
 50/home/vant/Escritorio/harryWeb/node_modules/rimraf1648713418761807638 1
+53/home/vant/Escritorio/harryWeb/dist/trabajadores.html1649331262576832057 0
 64/home/vant/Escritorio/harryWeb/node_modules/fsevents/fsevents.js499162500000000000 0
 62/home/vant/Escritorio/harryWeb/node_modules/fsevents/README.md499162500000000000 0
 65/home/vant/Escritorio/harryWeb/node_modules/fsevents/package.json499162500000000000 0
@@ -1030,6 +1117,7 @@
 66/home/vant/Escritorio/harryWeb/node_modules/type-fest/package.json499162500000000000 0
 69/home/vant/Escritorio/harryWeb/node_modules/type-fest/ts41/index.d.ts499162500000000000 0
 74/home/vant/Escritorio/harryWeb/node_modules/type-fest/ts41/camel-case.d.ts499162500000000000 0
+56/home/vant/Escritorio/harryWeb/dist/registro.ed1c4618.js1649331262620832040 0
 58/home/vant/Escritorio/harryWeb/node_modules/type-fest/ts411648713418993808669 1
 83/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/png-alpha.js499162500000000000 0
 63/home/vant/Escritorio/harryWeb/node_modules/type-fest/base.d.ts499162500000000000 0
@@ -1040,6 +1128,7 @@
 72/home/vant/Escritorio/harryWeb/node_modules/timsort/build/timsort.min.js1469388879000000000 0
 60/home/vant/Escritorio/harryWeb/node_modules/timsort/index.js1469384598000000000 0
 70/home/vant/Escritorio/harryWeb/node_modules/utility-types/CHANGELOG.md499162500000000000 0
+54/home/vant/Escritorio/harryWeb/dist/rubeus_hagrid.html1649331262576832057 0
 88/home/vant/Escritorio/harryWeb/node_modules/utility-types/dist/aliases-and-guards.js.map499162500000000000 0
 73/home/vant/Escritorio/harryWeb/node_modules/utility-types/dist/index.d.ts499162500000000000 0
 75/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/regions/ML.js499162500000000000 0
@@ -1098,11 +1187,12 @@
 66/home/vant/Escritorio/harryWeb/node_modules/entities/lib/decode.js499162500000000000 0
 83/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/clipboard.js499162500000000000 0
 61/home/vant/Escritorio/harryWeb/node_modules/sass/sass.dart.js499162500000000000 0
-50/home/vant/Escritorio/harryWeb/src/hufflepuff.html1649310442799986024 0
+50/home/vant/Escritorio/harryWeb/src/hufflepuff.html1649318097225775413 0
 79/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/xhtml.js499162500000000000 0
 58/home/vant/Escritorio/harryWeb/node_modules/sass/README.md499162500000000000 0
+57/home/vant/Escritorio/harryWeb/dist/casas.cad43ff5.js.map1649331262676832018 0
 61/home/vant/Escritorio/harryWeb/node_modules/sass/package.json499162500000000000 0
-53/home/vant/Escritorio/harryWeb/src/severus_snape.html1649237556075961444 0
+53/home/vant/Escritorio/harryWeb/src/severus_snape.html1649318097121775735 0
 70/home/vant/Escritorio/harryWeb/node_modules/picomatch/lib/constants.js499162500000000000 0
 56/home/vant/Escritorio/harryWeb/node_modules/sass/LICENSE499162500000000000 0
 48/home/vant/Escritorio/harryWeb/node_modules/sass1648713419225809696 1
@@ -1140,7 +1230,7 @@
 51/home/vant/Escritorio/harryWeb/node_modules/is-glob1648713418701807372 1
 59/home/vant/Escritorio/harryWeb/node_modules/lmdb/index.d.ts499162500000000000 0
 62/home/vant/Escritorio/harryWeb/node_modules/lmdb/node-index.js499162500000000000 0
-34/home/vant/Escritorio/harryWeb/src1649310597807981175 1
+34/home/vant/Escritorio/harryWeb/src1649318097229775400 1
 92/home/vant/Escritorio/harryWeb/node_modules/lmdb/prebuilds/linux-arm64/node.abi88.glibc.node499162500000000000 0
 92/home/vant/Escritorio/harryWeb/node_modules/lmdb/prebuilds/linux-arm64/node.abi93.glibc.node499162500000000000 0
 95/home/vant/Escritorio/harryWeb/node_modules/lmdb/prebuilds/linux-arm64/electron.abi99.musl.node499162500000000000 0
@@ -1172,6 +1262,7 @@
 68/home/vant/Escritorio/harryWeb/node_modules/lmdb/prebuilds/linux-x641648713419361810298 1
 84/home/vant/Escritorio/harryWeb/node_modules/lmdb/prebuilds/win32-x64/node.abi72.node499162500000000000 0
 84/home/vant/Escritorio/harryWeb/node_modules/lmdb/prebuilds/win32-x64/node.abi83.node499162500000000000 0
+52/home/vant/Escritorio/harryWeb/dist/ron_weasley.html1649331262452832105 0
 68/home/vant/Escritorio/harryWeb/node_modules/lmdb/prebuilds/win32-x641648713419365810316 1
 58/home/vant/Escritorio/harryWeb/node_modules/lmdb/prebuilds1648713419273809908 1
 60/home/vant/Escritorio/harryWeb/node_modules/lmdb/binding.gyp499162500000000000 0
@@ -1199,7 +1290,7 @@
 72/home/vant/Escritorio/harryWeb/node_modules/abortcontroller-polyfill/src1648713418893808224 1
 95/home/vant/Escritorio/harryWeb/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb_dump.1499162500000000000 0
 95/home/vant/Escritorio/harryWeb/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb_stat.c499162500000000000 0
-53/home/vant/Escritorio/harryWeb/src/luna_lovegood.html1649237914367950236 0
+53/home/vant/Escritorio/harryWeb/src/luna_lovegood.html1649318097105775785 0
 96/home/vant/Escritorio/harryWeb/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mtest_enc.c499162500000000000 0
 98/home/vant/Escritorio/harryWeb/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mtest_remap.c499162500000000000 0
 95/home/vant/Escritorio/harryWeb/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb_drop.c499162500000000000 0
@@ -1241,6 +1332,7 @@
 81/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/dist/unpacker/feature.js499162500000000000 0
 91/home/vant/Escritorio/harryWeb/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/midl.c499162500000000000 0
 93/home/vant/Escritorio/harryWeb/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/crypto.c499162500000000000 0
+66/home/vant/Escritorio/harryWeb/dist/varita_mcgonagall.972c2872.png1649331262488832091 0
 93/home/vant/Escritorio/harryWeb/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mtest6.c499162500000000000 0
 94/home/vant/Escritorio/harryWeb/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/chacha8.c499162500000000000 0
 84/home/vant/Escritorio/harryWeb/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb1648713419365810316 1
@@ -1275,6 +1367,7 @@
 77/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/u2f.js499162500000000000 0
 74/home/vant/Escritorio/harryWeb/node_modules/cosmiconfig/dist/readFile.d.ts499162500000000000 0
 53/home/vant/Escritorio/harryWeb/node_modules/nth-check1648713418793807781 1
+61/home/vant/Escritorio/harryWeb/dist/varita_ginny.48c0cb54.png1649331262612832043 0
 95/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/link-rel-dns-prefetch.js499162500000000000 0
 115/home/vant/Escritorio/harryWeb/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-false1648713419225809696 1
 72/home/vant/Escritorio/harryWeb/node_modules/@parcel/resolver-default/lib1648713418689807319 1
@@ -1404,6 +1497,7 @@
 81/home/vant/Escritorio/harryWeb/node_modules/@parcel/css-darwin-arm64/package.json499162500000000000 0
 90/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/text-size-adjust.js499162500000000000 0
 64/home/vant/Escritorio/harryWeb/node_modules/@swc/helpers/scripts1648713419065808987 1
+61/home/vant/Escritorio/harryWeb/dist/firma_cedric.164e5313.png1649331262668832021 0
 82/home/vant/Escritorio/harryWeb/node_modules/utility-types/dist/mapped-types.js.map499162500000000000 0
 68/home/vant/Escritorio/harryWeb/node_modules/@parcel/css-darwin-arm641648713418693807336 1
 77/home/vant/Escritorio/harryWeb/node_modules/@parcel/runtime-react-refresh/lib1648713418689807319 1
@@ -1447,7 +1541,9 @@
 94/home/vant/Escritorio/harryWeb/node_modules/@swc/helpers/src/_unsupported_iterable_to_array.js1645788755000000000 0
 84/home/vant/Escritorio/harryWeb/node_modules/lmdb/dependencies/lz4/lib/dll/liblz4.def499162500000000000 0
 82/home/vant/Escritorio/harryWeb/node_modules/@parcel/transformer-image/package.json499162500000000000 0
+61/home/vant/Escritorio/harryWeb/dist/varita_harry.6184657e.png1649331262488832091 0
 67/home/vant/Escritorio/harryWeb/node_modules/@parcel/core/src/public1648713419221809678 1
+54/home/vant/Escritorio/harryWeb/dist/Benne.d8dcc53c.ttf1649331262620832040 0
 53/home/vant/Escritorio/harryWeb/node_modules/immutable1648713418961808527 1
 93/home/vant/Escritorio/harryWeb/node_modules/@parcel/transformer-image/src/ImageTransformer.js499162500000000000 0
 86/home/vant/Escritorio/harryWeb/node_modules/@parcel/core/lib/requests/TargetRequest.js499162500000000000 0
@@ -1489,6 +1585,7 @@
 65/home/vant/Escritorio/harryWeb/node_modules/import-fresh/index.js499162500000000000 0
 70/home/vant/Escritorio/harryWeb/node_modules/@parcel/graph/src/types.js499162500000000000 0
 77/home/vant/Escritorio/harryWeb/node_modules/@parcel/utils/test/config.test.js499162500000000000 0
+60/home/vant/Escritorio/harryWeb/dist/harry_potter.1531eb24.js1649331262484832093 0
 86/home/vant/Escritorio/harryWeb/node_modules/htmlnano/docs/versioned_docs/version-1.1.11648713419137809306 1
 74/home/vant/Escritorio/harryWeb/node_modules/terser/node_modules/source-map1648713418865808100 1
 121/home/vant/Escritorio/harryWeb/node_modules/@parcel/core/test/fixtures/plugins/node_modules/parcel-transformer-no-engines1648713419257809837 1
@@ -1498,6 +1595,7 @@
 84/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/fullscreen.js499162500000000000 0
 79/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/video.js499162500000000000 0
 102/home/vant/Escritorio/harryWeb/node_modules/@parcel/runtime-service-worker/lib/ServiceWorkerRuntime.js499162500000000000 0
+64/home/vant/Escritorio/harryWeb/dist/sirius_black.593d586c.js.map1649331262616832041 0
 122/home/vant/Escritorio/harryWeb/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-fallback/index.js499162500000000000 0
 70/home/vant/Escritorio/harryWeb/node_modules/svgo/plugins/removeDesc.js499162500000000000 0
 78/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/colr.js499162500000000000 0
@@ -1557,6 +1655,7 @@
 80/home/vant/Escritorio/harryWeb/node_modules/css-tree/lib/syntax/node/Brackets.js499162500000000000 0
 67/home/vant/Escritorio/harryWeb/node_modules/@parcel/fs/package.json499162500000000000 0
 98/home/vant/Escritorio/harryWeb/node_modules/@parcel/transformer-js/parcel-swc.linux-arm64-gnu.node499162500000000000 0
+59/home/vant/Escritorio/harryWeb/dist/estudiantes.f319ef6f.js1649331262620832040 0
 86/home/vant/Escritorio/harryWeb/node_modules/svgo/plugins/removeAttributesBySelector.js499162500000000000 0
 72/home/vant/Escritorio/harryWeb/node_modules/@parcel/packager-raw/LICENSE499162500000000000 0
 100/home/vant/Escritorio/harryWeb/node_modules/@parcel/core/test/fixtures/invalid-distpath/package.json499162500000000000 0
@@ -1642,6 +1741,7 @@
 78/home/vant/Escritorio/harryWeb/node_modules/@parcel/utils/src/openInBrowser.js499162500000000000 0
 92/home/vant/Escritorio/harryWeb/node_modules/@parcel/core/src/requests/WriteBundlesRequest.js499162500000000000 0
 87/home/vant/Escritorio/harryWeb/node_modules/@parcel/core/src/requests/PackageRequest.js499162500000000000 0
+51/home/vant/Escritorio/harryWeb/dist/hp.71c74b9a.png1649331262624832038 0
 81/home/vant/Escritorio/harryWeb/node_modules/@parcel/utils/test/DefaultMap.test.js499162500000000000 0
 98/home/vant/Escritorio/harryWeb/node_modules/dom-serializer/node_modules/entities/lib/maps/xml.json499162500000000000 0
 53/home/vant/Escritorio/harryWeb/node_modules/csso/dist1648713419013808757 1
@@ -1659,6 +1759,7 @@
 71/home/vant/Escritorio/harryWeb/node_modules/@parcel/events/lib/types.js499162500000000000 0
 78/home/vant/Escritorio/harryWeb/node_modules/xxhash-wasm/cjs/xxhash-wasm.js.map499162500000000000 0
 54/home/vant/Escritorio/harryWeb/node_modules/dotenv/lib1648713418801807816 1
+53/home/vant/Escritorio/harryWeb/dist/sirius_black.html1649331262576832057 0
 70/home/vant/Escritorio/harryWeb/node_modules/entities/lib/maps/xml.json499162500000000000 0
 65/home/vant/Escritorio/harryWeb/node_modules/posthtml/node_modules1648713416897799345 1
 86/home/vant/Escritorio/harryWeb/node_modules/@parcel/core/src/requests/ConfigRequest.js499162500000000000 0
@@ -1731,6 +1832,7 @@
 133/home/vant/Escritorio/harryWeb/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-false-glob/package.json499162500000000000 0
 90/home/vant/Escritorio/harryWeb/node_modules/@parcel/core/lib/requests/AssetGraphRequest.js499162500000000000 0
 125/home/vant/Escritorio/harryWeb/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/source-not-symlinked/dist.js499162500000000000 0
+57/home/vant/Escritorio/harryWeb/dist/tom_vold.a67bdedb.gif1649331262684832015 0
 60/home/vant/Escritorio/harryWeb/node_modules/path-is-absolute1648713418697807354 1
 69/home/vant/Escritorio/harryWeb/node_modules/@parcel/core/src/utils.js499162500000000000 0
 89/home/vant/Escritorio/harryWeb/node_modules/@parcel/core/lib/public/MutableBundleGraph.js499162500000000000 0
@@ -1801,6 +1903,7 @@
 70/home/vant/Escritorio/harryWeb/node_modules/@parcel/fs/src/MemoryFS.js499162500000000000 0
 78/home/vant/Escritorio/harryWeb/node_modules/@parcel/core/lib/ReporterRunner.js499162500000000000 0
 80/home/vant/Escritorio/harryWeb/node_modules/@parcel/core/lib/summarizeRequest.js499162500000000000 0
+65/home/vant/Escritorio/harryWeb/dist/ginny_weasley.0fe79d5f.js.map1649331262496832088 0
 70/home/vant/Escritorio/harryWeb/node_modules/@parcel/compressor-raw/lib1648713418693807336 1
 84/home/vant/Escritorio/harryWeb/node_modules/@parcel/node-resolver-core/src/_empty.js499162500000000000 0
 83/home/vant/Escritorio/harryWeb/node_modules/@parcel/packager-svg/src/SVGPackager.js499162500000000000 0
@@ -1821,6 +1924,7 @@
 82/home/vant/Escritorio/harryWeb/node_modules/@parcel/transformer-html/lib/inline.js499162500000000000 0
 80/home/vant/Escritorio/harryWeb/node_modules/csso/lib/replace/atrule/keyframes.js499162500000000000 0
 88/home/vant/Escritorio/harryWeb/node_modules/@parcel/transformer-html/lib/dependencies.js499162500000000000 0
+62/home/vant/Escritorio/harryWeb/dist/hufflepuff.e2db3d47.js.map1649331262676832018 0
 101/home/vant/Escritorio/harryWeb/node_modules/@parcel/runtime-js/lib/helpers/browser/prefetch-loader.js499162500000000000 0
 91/home/vant/Escritorio/harryWeb/node_modules/@parcel/transformer-json/lib/JSONTransformer.js499162500000000000 0
 72/home/vant/Escritorio/harryWeb/node_modules/@parcel/transformer-json/lib1648713418689807319 1
@@ -1852,7 +1956,7 @@
 68/home/vant/Escritorio/harryWeb/node_modules/@parcel/packager-svg/src1648713418725807478 1
 83/home/vant/Escritorio/harryWeb/node_modules/@parcel/packager-svg/lib/SVGPackager.js499162500000000000 0
 117/home/vant/Escritorio/harryWeb/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-alias/foo.js499162500000000000 0
-51/home/vant/Escritorio/harryWeb/src/estudiantes.html1649238640943927509 0
+51/home/vant/Escritorio/harryWeb/src/estudiantes.html1649318097145775661 0
 62/home/vant/Escritorio/harryWeb/node_modules/@parcel/events/src1648713418841807994 1
 105/home/vant/Escritorio/harryWeb/node_modules/@parcel/workers/test/integration/workerfarm/reverse-handle.js499162500000000000 0
 71/home/vant/Escritorio/harryWeb/node_modules/@parcel/bundler-default/lib1648713418693807336 1
@@ -2026,6 +2130,7 @@
 96/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/keyboardevent-charcode.js499162500000000000 0
 82/home/vant/Escritorio/harryWeb/node_modules/@parcel/packager-js/src/.eslintrc.json499162500000000000 0
 74/home/vant/Escritorio/harryWeb/node_modules/@parcel/utils/lib/index.js.map499162500000000000 0
+50/home/vant/Escritorio/harryWeb/dist/ravenclaw.html1649331262576832057 0
 53/home/vant/Escritorio/harryWeb/node_modules/js-tokens1648713418717807443 1
 81/home/vant/Escritorio/harryWeb/node_modules/@parcel/cache/lib/IDBCache.browser.js499162500000000000 0
 61/home/vant/Escritorio/harryWeb/node_modules/csso/lib/usage.js499162500000000000 0
@@ -2357,7 +2462,7 @@
 78/home/vant/Escritorio/harryWeb/node_modules/@parcel/core/src/resolveOptions.js499162500000000000 0
 75/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/regions/AG.js499162500000000000 0
 71/home/vant/Escritorio/harryWeb/node_modules/cosmiconfig/dist/index.d.ts499162500000000000 0
-30/home/vant/Escritorio/harryWeb1648713451897947606 1
+30/home/vant/Escritorio/harryWeb1649316681712600354 1
 83/home/vant/Escritorio/harryWeb/node_modules/@parcel/graph/test/ContentGraph.test.js499162500000000000 0
 76/home/vant/Escritorio/harryWeb/node_modules/@parcel/transformer-html/LICENSE499162500000000000 0
 79/home/vant/Escritorio/harryWeb/node_modules/@parcel/transformer-postcss/LICENSE499162500000000000 0
@@ -2379,7 +2484,7 @@
 75/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/regions/SN.js499162500000000000 0
 65/home/vant/Escritorio/harryWeb/node_modules/@parcel/optimizer-css1648713418741807549 1
 84/home/vant/Escritorio/harryWeb/node_modules/@parcel/transformer-js/native-browser.js499162500000000000 0
-48/home/vant/Escritorio/harryWeb/src/registro.html1649239019851915656 0
+48/home/vant/Escritorio/harryWeb/src/registro.html1649318097041775983 0
 116/home/vant/Escritorio/harryWeb/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/@scope/pkg/index.js499162500000000000 0
 75/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/regions/MP.js499162500000000000 0
 84/home/vant/Escritorio/harryWeb/node_modules/@parcel/source-map/parcel_sourcemap_wasm1648713419233809731 1
@@ -2395,6 +2500,7 @@
 72/home/vant/Escritorio/harryWeb/node_modules/@parcel/logger/src/Logger.js499162500000000000 0
 66/home/vant/Escritorio/harryWeb/node_modules/@parcel/source-map/src1648713418953808491 1
 98/home/vant/Escritorio/harryWeb/node_modules/@parcel/runtime-browser-hmr/lib/loaders/hmr-runtime.js499162500000000000 0
+54/home/vant/Escritorio/harryWeb/dist/luna_lovegood.html1649331262484832093 0
 64/home/vant/Escritorio/harryWeb/node_modules/@parcel/hash/LICENSE499162500000000000 0
 75/home/vant/Escritorio/harryWeb/node_modules/@parcel/workers/src/Profiler.js499162500000000000 0
 90/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/css-focus-within.js499162500000000000 0
@@ -2441,7 +2547,7 @@
 86/home/vant/Escritorio/harryWeb/node_modules/css-tree/lib/syntax/scope/atrulePrelude.js499162500000000000 0
 96/home/vant/Escritorio/harryWeb/node_modules/msgpackr-extract/prebuilds/linux-x64/node.abi72.node499162500000000000 0
 101/home/vant/Escritorio/harryWeb/node_modules/@parcel/css-linux-x64-musl/parcel-css.linux-x64-musl.node499162500000000000 0
-50/home/vant/Escritorio/harryWeb/src/tom_riddle.html1649238264171939294 0
+50/home/vant/Escritorio/harryWeb/src/tom_riddle.html1649318097077775871 0
 64/home/vant/Escritorio/harryWeb/node_modules/ordered-binary/tests1648713418773807692 1
 75/home/vant/Escritorio/harryWeb/node_modules/@parcel/transformer-svg/LICENSE499162500000000000 0
 80/home/vant/Escritorio/harryWeb/node_modules/@parcel/diagnostic/lib/diagnostic.js499162500000000000 0
@@ -2532,6 +2638,7 @@
 64/home/vant/Escritorio/harryWeb/src/assets/img/harry/firma_hp.png1637057933997274000 0
 127/home/vant/Escritorio/harryWeb/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-alias-glob/src/test.js499162500000000000 0
 78/home/vant/Escritorio/harryWeb/node_modules/@parcel/events/src/ValueEmitter.js499162500000000000 0
+53/home/vant/Escritorio/harryWeb/dist/Rony.9047f8ff.jpg1649331262488832091 0
 74/home/vant/Escritorio/harryWeb/node_modules/xxhash-wasm/esm/xxhash-wasm.js499162500000000000 0
 98/home/vant/Escritorio/harryWeb/node_modules/@parcel/runtime-browser-hmr/src/loaders/.eslintrc.json499162500000000000 0
 72/home/vant/Escritorio/harryWeb/node_modules/domhandler/lib/node.d.ts.map499162500000000000 0
@@ -2631,7 +2738,7 @@
 88/home/vant/Escritorio/harryWeb/node_modules/@parcel/workers/src/threads/ThreadsWorker.js499162500000000000 0
 60/home/vant/Escritorio/harryWeb/node_modules/anymatch/LICENSE499162500000000000 0
 54/home/vant/Escritorio/harryWeb/node_modules/source-map1648713418909808296 1
-53/home/vant/Escritorio/harryWeb/src/ginny_weasley.html1649238020579946914 0
+53/home/vant/Escritorio/harryWeb/src/ginny_weasley.html1649318097161775611 0
 71/home/vant/Escritorio/harryWeb/node_modules/sass/types/value/color.d.ts499162500000000000 0
 89/home/vant/Escritorio/harryWeb/node_modules/@parcel/optimizer-image/lib/ImageOptimizer.js499162500000000000 0
 75/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/regions/CI.js499162500000000000 0
@@ -2682,7 +2789,9 @@
 119/home/vant/Escritorio/harryWeb/node_modules/@parcel/package-manager/test/fixtures/has-foo/node_modules/foo/package.json499162500000000000 0
 111/home/vant/Escritorio/harryWeb/node_modules/@parcel/css-linux-arm-gnueabihf/parcel-css.linux-arm-gnueabihf.node499162500000000000 0
 68/home/vant/Escritorio/harryWeb/node_modules/brace-expansion/index.js1518169988000000000 0
+51/home/vant/Escritorio/harryWeb/dist/hufflepuff.html1649331262484832093 0
 57/home/vant/Escritorio/harryWeb/node_modules/@trysound/sax1648713418753807603 1
+61/home/vant/Escritorio/harryWeb/dist/luna_lovegood.fb7af59c.js1649331262484832093 0
 71/home/vant/Escritorio/harryWeb/node_modules/source-map-js/source-map.js499162500000000000 0
 84/home/vant/Escritorio/harryWeb/node_modules/@parcel/utils/src/generateCertificate.js499162500000000000 0
 95/home/vant/Escritorio/harryWeb/node_modules/@parcel/transformer-react-refresh-wrap/package.json499162500000000000 0
@@ -2737,11 +2846,14 @@
 78/home/vant/Escritorio/harryWeb/node_modules/@parcel/node-resolver-core/LICENSE499162500000000000 0
 101/home/vant/Escritorio/harryWeb/node_modules/@parcel/core/test/fixtures/duplicate-targets/package.json499162500000000000 0
 74/home/vant/Escritorio/harryWeb/node_modules/@parcel/source-map/src/wasm.js499162500000000000 0
+54/home/vant/Escritorio/harryWeb/dist/harry.1ddef470.jpg1649331262608832044 0
 91/home/vant/Escritorio/harryWeb/node_modules/@parcel/transformer-sass/lib/SassTransformer.js499162500000000000 0
 54/home/vant/Escritorio/harryWeb/node_modules/parse-json1648713418697807354 1
 72/home/vant/Escritorio/harryWeb/node_modules/@parcel/transformer-sass/src1648713418721807461 1
+50/home/vant/Escritorio/harryWeb/dist/cho_chang.html1649331262576832057 0
 91/home/vant/Escritorio/harryWeb/node_modules/@parcel/transformer-sass/src/SassTransformer.js499162500000000000 0
 93/home/vant/Escritorio/harryWeb/node_modules/@parcel/package-manager/src/NodePackageManager.js499162500000000000 0
+58/home/vant/Escritorio/harryWeb/dist/hufflepuff.e2db3d47.js1649331262668832021 0
 73/home/vant/Escritorio/harryWeb/node_modules/@swc/helpers/lib/_decorate.js1647430283000000000 0
 79/home/vant/Escritorio/harryWeb/node_modules/css-tree/lib/common/adopt-buffer.js499162500000000000 0
 71/home/vant/Escritorio/harryWeb/node_modules/normalize-path/package.json499162500000000000 0
@@ -2753,6 +2865,7 @@
 93/home/vant/Escritorio/harryWeb/node_modules/@parcel/fs-search/fs-search.linux-arm64-musl.node499162500000000000 0
 82/home/vant/Escritorio/harryWeb/node_modules/@parcel/core/test/ParcelConfig.test.js499162500000000000 0
 64/home/vant/Escritorio/harryWeb/node_modules/yaml/types/binary.js499162500000000000 0
+62/home/vant/Escritorio/harryWeb/dist/varita_cedric.1765078f.png1649331262668832021 0
 70/home/vant/Escritorio/harryWeb/node_modules/msgpackr-extract/README.md499162500000000000 0
 89/home/vant/Escritorio/harryWeb/node_modules/@swc/helpers/lib/_class_private_field_init.js1647430283000000000 0
 65/home/vant/Escritorio/harryWeb/node_modules/msgpackr/package.json499162500000000000 0
@@ -2763,6 +2876,7 @@
 76/home/vant/Escritorio/harryWeb/node_modules/@parcel/resolver-default/LICENSE499162500000000000 0
 58/home/vant/Escritorio/harryWeb/node_modules/csso/lib/clean1648713419085809076 1
 62/home/vant/Escritorio/harryWeb/node_modules/@parcel/utils/test1648713419145809342 1
+54/home/vant/Escritorio/harryWeb/dist/Harry.fd2febcc.TTF1649331262488832091 0
 114/home/vant/Escritorio/harryWeb/node_modules/@parcel/node-resolver-core/test/fixture/packages/source-alias-glob/src1648713419201809590 1
 80/home/vant/Escritorio/harryWeb/node_modules/@parcel/source-map/dist/node.js.flow499162500000000000 0
 77/home/vant/Escritorio/harryWeb/node_modules/css-tree/lib/lexer/match-graph.js499162500000000000 0
@@ -2795,12 +2909,13 @@
 89/home/vant/Escritorio/harryWeb/node_modules/@parcel/runtime-browser-hmr/src/HMRRuntime.js499162500000000000 0
 77/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/let.js499162500000000000 0
 75/home/vant/Escritorio/harryWeb/node_modules/htmlnano/docs/package-lock.json499162500000000000 0
-35/home/vant/Escritorio/harryWeb/dist1648713451945947799 1
+35/home/vant/Escritorio/harryWeb/dist1649331737060426979 1
 68/home/vant/Escritorio/harryWeb/node_modules/svgo/lib/svgo/plugins.js499162500000000000 0
 106/home/vant/Escritorio/harryWeb/node_modules/@parcel/package-manager/test/fixtures/has-foo/node_modules/foo1648713419085809076 1
 61/home/vant/Escritorio/harryWeb/node_modules/@parcel/utils/src1648713419141809324 1
 67/home/vant/Escritorio/harryWeb/src/assets/img/snape/firma_snape.png1637271248616181000 0
 113/home/vant/Escritorio/harryWeb/node_modules/@parcel/package-manager/test/fixtures/has-foo/subpackage/package.json499162500000000000 0
+64/home/vant/Escritorio/harryWeb/dist/contactanos.cf7591e5.css.map1649331737056426984 0
 65/home/vant/Escritorio/harryWeb/node_modules/nan/doc/converters.md1491430036000000000 0
 73/home/vant/Escritorio/harryWeb/node_modules/@parcel/transformer-image/lib1648713418769807674 1
 64/home/vant/Escritorio/harryWeb/node_modules/@parcel/reporter-cli1648713418933808402 1
@@ -2944,6 +3059,7 @@
 97/home/vant/Escritorio/harryWeb/node_modules/@parcel/transformer-js/parcel-swc.linux-x64-musl.node499162500000000000 0
 71/home/vant/Escritorio/harryWeb/node_modules/@babel/code-frame/README.md456789000000000000 0
 72/home/vant/Escritorio/harryWeb/node_modules/@parcel/transformer-html/lib1648713418797807798 1
+54/home/vant/Escritorio/harryWeb/dist/ginny_weasley.html1649331262452832105 0
 90/home/vant/Escritorio/harryWeb/node_modules/css-select/lib/pseudo-selectors/index.d.ts.map499162500000000000 0
 82/home/vant/Escritorio/harryWeb/node_modules/@parcel/packager-js/lib/DevPackager.js499162500000000000 0
 59/home/vant/Escritorio/harryWeb/node_modules/@parcel/watcher1648713419177809483 1
@@ -3039,6 +3155,7 @@
 69/home/vant/Escritorio/harryWeb/node_modules/@parcel/optimizer-css/lib1648713418693807336 1
 87/home/vant/Escritorio/harryWeb/node_modules/@parcel/runtime-service-worker/package.json499162500000000000 0
 67/home/vant/Escritorio/harryWeb/node_modules/parse-json/package.json499162500000000000 0
+54/home/vant/Escritorio/harryWeb/dist/draco.3a742e6b.jpg1649331262668832021 0
 60/home/vant/Escritorio/harryWeb/node_modules/escalade/license499162500000000000 0
 71/home/vant/Escritorio/harryWeb/node_modules/@parcel/optimizer-image/lib1648713418709807407 1
 96/home/vant/Escritorio/harryWeb/node_modules/@parcel/optimizer-image/parcel-image.darwin-x64.node499162500000000000 0
@@ -3074,6 +3191,7 @@
 95/home/vant/Escritorio/harryWeb/node_modules/@parcel/core/test/fixtures/main-global/package.json499162500000000000 0
 69/home/vant/Escritorio/harryWeb/node_modules/htmlnano/docs/sidebars.js499162500000000000 0
 82/home/vant/Escritorio/harryWeb/node_modules/@parcel/core/src/public/Environment.js499162500000000000 0
+53/home/vant/Escritorio/harryWeb/dist/luna.83baf182.jpg1649331262488832091 0
 81/home/vant/Escritorio/harryWeb/node_modules/@parcel/utils/test/objectHash.test.js499162500000000000 0
 101/home/vant/Escritorio/harryWeb/node_modules/@parcel/css-win32-x64-msvc/parcel-css.win32-x64-msvc.node499162500000000000 0
 122/home/vant/Escritorio/harryWeb/node_modules/@parcel/source-map/parcel_sourcemap_node/artifacts/index.linux-arm64-musl.node499162500000000000 0
@@ -3082,7 +3200,7 @@
 96/home/vant/Escritorio/harryWeb/node_modules/@babel/highlight/node_modules/supports-color/license1496344655000000000 0
 68/home/vant/Escritorio/harryWeb/node_modules/@swc/helpers/src/_jsx.js1645788755000000000 0
 64/home/vant/Escritorio/harryWeb/node_modules/htmlnano/LICENSE.txt499162500000000000 0
-45/home/vant/Escritorio/harryWeb/src/index.html1648715560936923112 0
+45/home/vant/Escritorio/harryWeb/src/index.html1649318097029776020 0
 83/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/mpeg-dash.js499162500000000000 0
 84/home/vant/Escritorio/harryWeb/node_modules/lmdb/prebuilds/win32-x64/node.abi93.node499162500000000000 0
 86/home/vant/Escritorio/harryWeb/node_modules/@parcel/core/test/fixtures/invalid-engines1648713419249809802 1
@@ -3197,6 +3315,7 @@
 69/home/vant/Escritorio/harryWeb/node_modules/@parcel/watcher/prebuilds1648713419101809147 1
 67/home/vant/Escritorio/harryWeb/node_modules/ordered-binary/index.js499162500000000000 0
 79/home/vant/Escritorio/harryWeb/node_modules/@parcel/watcher/prebuilds/win32-x641648713419101809147 1
+59/home/vant/Escritorio/harryWeb/dist/fondo_head.83db2080.png1649331262492832090 0
 64/home/vant/Escritorio/harryWeb/node_modules/picocolors/README.md499162500000000000 0
 97/home/vant/Escritorio/harryWeb/node_modules/@parcel/transformer-postcss/lib/PostCSSTransformer.js499162500000000000 0
 77/home/vant/Escritorio/harryWeb/node_modules/@parcel/graph/lib/ContentGraph.js499162500000000000 0
@@ -3362,6 +3481,7 @@
 64/home/vant/Escritorio/harryWeb/node_modules/terser/lib/output.js499162500000000000 0
 70/home/vant/Escritorio/harryWeb/node_modules/@parcel/cache/src/index.js499162500000000000 0
 70/home/vant/Escritorio/harryWeb/node_modules/@parcel/cache/src/types.js499162500000000000 0
+61/home/vant/Escritorio/harryWeb/dist/ginny_weasley.0fe79d5f.js1649331262484832093 0
 106/home/vant/Escritorio/harryWeb/node_modules/dom-serializer/node_modules/entities/lib/decode_codepoint.d.ts499162500000000000 0
 71/home/vant/Escritorio/harryWeb/node_modules/svgo/plugins/removeAttrs.js499162500000000000 0
 71/home/vant/Escritorio/harryWeb/node_modules/@parcel/workers/lib/threads1648713418997808686 1
@@ -3401,6 +3521,7 @@
 68/home/vant/Escritorio/harryWeb/node_modules/@parcel/packager-raw/lib1648713418689807319 1
 83/home/vant/Escritorio/harryWeb/node_modules/@parcel/packager-raw/lib/RawPackager.js499162500000000000 0
 101/home/vant/Escritorio/harryWeb/node_modules/dom-serializer/node_modules/entities/lib/maps/decode.json499162500000000000 0
+66/home/vant/Escritorio/harryWeb/dist/varita_dumbledore.3a349f95.png1649331262624832038 0
 61/home/vant/Escritorio/harryWeb/node_modules/semver/bin/semver499162500000000000 0
 68/home/vant/Escritorio/harryWeb/node_modules/@parcel/packager-raw/src1648713418725807478 1
 75/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/regions/BZ.js499162500000000000 0
@@ -3419,6 +3540,7 @@
 85/home/vant/Escritorio/harryWeb/node_modules/@parcel/reporter-dev-server/lib/templates1648713418785807745 1
 73/home/vant/Escritorio/harryWeb/node_modules/domutils/lib/helpers.d.ts.map499162500000000000 0
 85/home/vant/Escritorio/harryWeb/node_modules/@parcel/reporter-dev-server/src/Server.js499162500000000000 0
+60/home/vant/Escritorio/harryWeb/dist/sirius_black.593d586c.js1649331262608832044 0
 65/home/vant/Escritorio/harryWeb/node_modules/css-tree/package.json499162500000000000 0
 71/home/vant/Escritorio/harryWeb/node_modules/@parcel/bundler-default/src1648713418757807621 1
 94/home/vant/Escritorio/harryWeb/node_modules/@swc/helpers/lib/_iterable_to_array_limit_loose.js1647430283000000000 0
@@ -3516,6 +3638,7 @@
 76/home/vant/Escritorio/harryWeb/node_modules/chokidar/lib/fsevents-handler.js499162500000000000 0
 70/home/vant/Escritorio/harryWeb/node_modules/css-what/lib/es/index.d.ts499162500000000000 0
 58/home/vant/Escritorio/harryWeb/node_modules/clone/clone.js1521666053000000000 0
+63/home/vant/Escritorio/harryWeb/dist/logo_slytherin.3b6cff92.png1649331262668832021 0
 62/home/vant/Escritorio/harryWeb/node_modules/clone/package.json1521666384000000000 0
 65/home/vant/Escritorio/harryWeb/node_modules/color-convert/LICENSE499162500000000000 0
 63/home/vant/Escritorio/harryWeb/node_modules/posthtml/lib/api.js499162500000000000 0
@@ -3529,6 +3652,7 @@
 86/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/transforms3d.js499162500000000000 0
 74/home/vant/Escritorio/harryWeb/node_modules/yaml/dist/Document-9b4560a1.js499162500000000000 0
 62/home/vant/Escritorio/harryWeb/node_modules/json5/lib/index.js499162500000000000 0
+61/home/vant/Escritorio/harryWeb/dist/firma_sirius.d70f6e69.png1649331262488832091 0
 94/home/vant/Escritorio/harryWeb/node_modules/@parcel/utils/test/input/sourcemap/no-sourcemap.js499162500000000000 0
 56/home/vant/Escritorio/harryWeb/node_modules/yaml/pair.js499162500000000000 0
 64/home/vant/Escritorio/harryWeb/node_modules/json5/lib/parse.d.ts499162500000000000 0
@@ -3604,6 +3728,7 @@
 65/home/vant/Escritorio/harryWeb/node_modules/posthtml/package.json499162500000000000 0
 58/home/vant/Escritorio/harryWeb/node_modules/posthtml/types1648713418761807638 1
 58/home/vant/Escritorio/harryWeb/node_modules/nan/nan_json.h1587495541000000000 0
+59/home/vant/Escritorio/harryWeb/dist/ron_weasley.93729993.js1649331262484832093 0
 72/home/vant/Escritorio/harryWeb/node_modules/posthtml/types/posthtml.d.ts499162500000000000 0
 88/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/iframe-sandbox.js499162500000000000 0
 75/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/regions/TZ.js499162500000000000 0
@@ -3619,6 +3744,7 @@
 62/home/vant/Escritorio/harryWeb/node_modules/svgo/lib/parser.js499162500000000000 0
 70/home/vant/Escritorio/harryWeb/node_modules/concat-map/README.markdown1354099276000000000 0
 62/home/vant/Escritorio/harryWeb/node_modules/concat-map/LICENSE1391050985000000000 0
+64/home/vant/Escritorio/harryWeb/dist/logo_gryffindor.1da821d4.png1649331262668832021 0
 63/home/vant/Escritorio/harryWeb/node_modules/concat-map/index.js1354939769000000000 0
 63/home/vant/Escritorio/harryWeb/node_modules/parse-json/index.js499162500000000000 0
 62/home/vant/Escritorio/harryWeb/node_modules/concat-map/example1648713418749807585 1
@@ -3658,6 +3784,7 @@
 61/home/vant/Escritorio/harryWeb/node_modules/parcel/lib/bin.js499162500000000000 0
 84/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/nav-timing.js499162500000000000 0
 54/home/vant/Escritorio/harryWeb/node_modules/acorn/dist1648713418985808633 1
+56/home/vant/Escritorio/harryWeb/dist/neville.15b8da6f.jpg1649331262488832091 0
 112/home/vant/Escritorio/harryWeb/node_modules/@parcel/core/test/fixtures/targets-default-distdir-none/package.json499162500000000000 0
 61/home/vant/Escritorio/harryWeb/node_modules/acorn/dist/bin.js499162500000000000 0
 68/home/vant/Escritorio/harryWeb/node_modules/json5/lib/stringify.d.ts499162500000000000 0
@@ -3721,7 +3848,7 @@
 68/home/vant/Escritorio/harryWeb/node_modules/buffer-from/package.json499162500000000000 0
 63/home/vant/Escritorio/harryWeb/node_modules/yaml/types/pairs.js499162500000000000 0
 77/home/vant/Escritorio/harryWeb/node_modules/postcss-value-parser/lib/index.js499162500000000000 0
-54/home/vant/Escritorio/harryWeb/src/cedric_diggory.html1649237166243973638 0
+54/home/vant/Escritorio/harryWeb/src/cedric_diggory.html1649318097153775636 0
 94/home/vant/Escritorio/harryWeb/node_modules/@babel/highlight/node_modules/color-name/README.md1489460043000000000 0
 61/home/vant/Escritorio/harryWeb/node_modules/@parcel/fs-search1648713419113809200 1
 81/home/vant/Escritorio/harryWeb/node_modules/@parcel/runtime-js/src/helpers/worker1648713419033808846 1
@@ -3800,6 +3927,7 @@
 77/home/vant/Escritorio/harryWeb/node_modules/css-tree/lib/syntax/pseudo/has.js499162500000000000 0
 67/home/vant/Escritorio/harryWeb/node_modules/lmdb/dist/index.cjs.map499162500000000000 0
 99/home/vant/Escritorio/harryWeb/node_modules/@swc/helpers/lib/_class_apply_descriptor_destructure.js1647430283000000000 0
+57/home/vant/Escritorio/harryWeb/dist/firma_hp.3276e7e6.png1649331262488832091 0
 91/home/vant/Escritorio/harryWeb/node_modules/@swc/helpers/lib/_apply_decorated_descriptor.js1647430283000000000 0
 91/home/vant/Escritorio/harryWeb/node_modules/@parcel/transformer-posthtml/src/loadPlugins.js499162500000000000 0
 80/home/vant/Escritorio/harryWeb/node_modules/@swc/helpers/lib/_new_arrow_check.js1647430283000000000 0
@@ -3818,7 +3946,7 @@
 71/home/vant/Escritorio/harryWeb/node_modules/css-tree/lib/lexer/error.js499162500000000000 0
 82/home/vant/Escritorio/harryWeb/node_modules/@swc/helpers/lib/_wrap_native_super.js1647430283000000000 0
 93/home/vant/Escritorio/harryWeb/node_modules/dom-serializer/node_modules/entities/lib/index.js499162500000000000 0
-52/home/vant/Escritorio/harryWeb/src/sirius_black.html1649238159423942571 0
+52/home/vant/Escritorio/harryWeb/src/sirius_black.html1649318097185775537 0
 88/home/vant/Escritorio/harryWeb/node_modules/@swc/helpers/lib/_class_private_field_get.js1647430283000000000 0
 80/home/vant/Escritorio/harryWeb/node_modules/@swc/helpers/lib/_to_property_key.js1647430283000000000 0
 76/home/vant/Escritorio/harryWeb/node_modules/@swc/helpers/lib/_await_value.js1647430283000000000 0
@@ -3828,6 +3956,7 @@
 79/home/vant/Escritorio/harryWeb/node_modules/@parcel/core/test/fixtures/main-mjs1648713419257809837 1
 70/home/vant/Escritorio/harryWeb/node_modules/@parcel/graph/src/Graph.js499162500000000000 0
 73/home/vant/Escritorio/harryWeb/node_modules/@swc/helpers/lib/_to_array.js1647430283000000000 0
+60/home/vant/Escritorio/harryWeb/dist/draco_malfoy.f65a997e.js1649331262668832021 0
 89/home/vant/Escritorio/harryWeb/node_modules/@swc/helpers/lib/_interop_require_wildcard.js1647430283000000000 0
 75/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/regions/YE.js499162500000000000 0
 95/home/vant/Escritorio/harryWeb/node_modules/@swc/helpers/lib/_class_private_field_loose_base.js1647430283000000000 0
@@ -3838,6 +3967,7 @@
 61/home/vant/Escritorio/harryWeb/node_modules/is-number/LICENSE499162500000000000 0
 94/home/vant/Escritorio/harryWeb/node_modules/dom-serializer/node_modules/entities/lib/encode.js499162500000000000 0
 84/home/vant/Escritorio/harryWeb/node_modules/@swc/helpers/lib/_array_without_holes.js1647430283000000000 0
+62/home/vant/Escritorio/harryWeb/dist/tom_riddle.3c05e664.js.map1649331262676832018 0
 71/home/vant/Escritorio/harryWeb/node_modules/lmdb/prebuilds/darwin-arm641648713419357810280 1
 92/home/vant/Escritorio/harryWeb/node_modules/@swc/helpers/lib/_possible_constructor_return.js1647430283000000000 0
 86/home/vant/Escritorio/harryWeb/node_modules/@parcel/transformer-babel/lib/constants.js499162500000000000 0
@@ -3908,7 +4038,7 @@
 81/home/vant/Escritorio/harryWeb/node_modules/@swc/helpers/src/_set_prototype_of.js1645788755000000000 0
 57/home/vant/Escritorio/harryWeb/node_modules/yaml/util.mjs499162500000000000 0
 72/home/vant/Escritorio/harryWeb/node_modules/@swc/helpers/src/_extends.js1645788755000000000 0
-50/home/vant/Escritorio/harryWeb/.idea/workspace.xml1649310242387992293 0
+50/home/vant/Escritorio/harryWeb/.idea/workspace.xml1649331870664258709 0
 64/home/vant/Escritorio/harryWeb/node_modules/resolve-from/license1496344655000000000 0
 73/home/vant/Escritorio/harryWeb/node_modules/@swc/helpers/src/_to_array.js1645788755000000000 0
 120/home/vant/Escritorio/harryWeb/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/@scope/pkg/package.json499162500000000000 0
@@ -3916,6 +4046,7 @@
 75/home/vant/Escritorio/harryWeb/node_modules/@parcel/utils/src/DefaultMap.js499162500000000000 0
 91/home/vant/Escritorio/harryWeb/node_modules/@swc/helpers/src/_initializer_warning_helper.js1645788755000000000 0
 89/home/vant/Escritorio/harryWeb/node_modules/@swc/helpers/src/_interop_require_wildcard.js1645788755000000000 0
+53/home/vant/Escritorio/harryWeb/dist/harry_potter.html1649331262576832057 0
 61/home/vant/Escritorio/harryWeb/src/assets/img/varita_luna.png1638956717865888000 0
 70/home/vant/Escritorio/harryWeb/node_modules/picocolors/picocolors.d.ts499162500000000000 0
 80/home/vant/Escritorio/harryWeb/node_modules/htmlnano/lib/modules/mergeScripts.js499162500000000000 0
@@ -4001,7 +4132,7 @@
 64/home/vant/Escritorio/harryWeb/node_modules/node-addon-api/tools1648713418997808686 1
 63/home/vant/Escritorio/harryWeb/node_modules/base-x/src/index.js499162500000000000 0
 60/home/vant/Escritorio/harryWeb/node_modules/base-x/README.md499162500000000000 0
-56/home/vant/Escritorio/harryWeb/dist/harryWeb.59712999.js1648713451937947767 0
+56/home/vant/Escritorio/harryWeb/dist/harryWeb.59712999.js1649331262620832040 0
 86/home/vant/Escritorio/harryWeb/node_modules/@parcel/transformer-react-refresh-wrap/lib1648713418797807798 1
 61/home/vant/Escritorio/harryWeb/node_modules/yaml/dist/util.js499162500000000000 0
 52/home/vant/Escritorio/harryWeb/node_modules/error-ex1648713418701807372 1
@@ -4016,6 +4147,7 @@
 75/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/regions/MX.js499162500000000000 0
 85/home/vant/Escritorio/harryWeb/node_modules/@parcel/transformer-posthtml/package.json499162500000000000 0
 67/home/vant/Escritorio/harryWeb/node_modules/lines-and-columns/build1648713418733807514 1
+41/home/vant/Escritorio/harryWeb/.gitignore1649316681724600370 0
 78/home/vant/Escritorio/harryWeb/node_modules/lines-and-columns/build/index.d.ts499162500000000000 0
 95/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/css-media-interaction.js499162500000000000 0
 73/home/vant/Escritorio/harryWeb/node_modules/escape-string-regexp/index.js1456057032000000000 0
@@ -4069,6 +4201,7 @@
 79/home/vant/Escritorio/harryWeb/node_modules/@babel/highlight/node_modules/chalk1648713418773807692 1
 82/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/wordwrap.js499162500000000000 0
 87/home/vant/Escritorio/harryWeb/node_modules/@babel/highlight/node_modules/chalk/license499162500000000000 0
+62/home/vant/Escritorio/harryWeb/dist/iniciar_sesion.9c313547.js1649331262620832040 0
 92/home/vant/Escritorio/harryWeb/node_modules/@babel/highlight/node_modules/chalk/package.json499162500000000000 0
 79/home/vant/Escritorio/harryWeb/node_modules/css-tree/lib/syntax/config/lexer.js499162500000000000 0
 85/home/vant/Escritorio/harryWeb/node_modules/@babel/highlight/node_modules/chalk/types1648713418797807798 1
@@ -4076,6 +4209,7 @@
 92/home/vant/Escritorio/harryWeb/node_modules/@babel/highlight/node_modules/color-name/LICENSE1450922393000000000 0
 71/home/vant/Escritorio/harryWeb/node_modules/@parcel/workers/lib/process1648713418961808527 1
 64/home/vant/Escritorio/harryWeb/node_modules/@babel/highlight/lib1648713418709807407 1
+63/home/vant/Escritorio/harryWeb/dist/ron_weasley.93729993.js.map1649331262500832086 0
 70/home/vant/Escritorio/harryWeb/node_modules/@babel/highlight/README.md456789000000000000 0
 97/home/vant/Escritorio/harryWeb/node_modules/msgpackr-extract/prebuilds/darwin-x64/node.abi93.node499162500000000000 0
 78/home/vant/Escritorio/harryWeb/node_modules/@babel/helper-validator-identifier1648713418757807621 1
@@ -4169,6 +4303,7 @@
 100/home/vant/Escritorio/harryWeb/node_modules/msgpackr-extract/prebuilds/linux-x64/electron.abi98.node499162500000000000 0
 77/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/sni.js499162500000000000 0
 74/home/vant/Escritorio/harryWeb/node_modules/csso/lib/replace/Percentage.js499162500000000000 0
+55/home/vant/Escritorio/harryWeb/dist/iniciar_sesion.html1649331262620832040 0
 96/home/vant/Escritorio/harryWeb/node_modules/msgpackr-extract/prebuilds/linux-x64/node.abi88.node499162500000000000 0
 100/home/vant/Escritorio/harryWeb/node_modules/msgpackr-extract/prebuilds/darwin-arm64/node.abi102.node499162500000000000 0
 99/home/vant/Escritorio/harryWeb/node_modules/msgpackr-extract/prebuilds/darwin-arm64/node.abi83.node499162500000000000 0
@@ -4283,7 +4418,7 @@
 66/home/vant/Escritorio/harryWeb/node_modules/json5/lib/unicode.d.ts499162500000000000 0
 67/home/vant/Escritorio/harryWeb/node_modules/parent-module/readme.md499162500000000000 0
 54/home/vant/Escritorio/harryWeb/node_modules/domhandler1648713418813807869 1
-52/home/vant/Escritorio/harryWeb/src/draco_malfoy.html1649236838999983874 0
+52/home/vant/Escritorio/harryWeb/src/draco_malfoy.html1649318097085775847 0
 76/home/vant/Escritorio/harryWeb/node_modules/source-map-js/lib/source-node.js499162500000000000 0
 58/home/vant/Escritorio/harryWeb/node_modules/domhandler/lib1648713418829807940 1
 119/home/vant/Escritorio/harryWeb/node_modules/@parcel/source-map/parcel_sourcemap_node/artifacts/index.linux-x64-gnu.node499162500000000000 0
@@ -4362,7 +4497,7 @@
 81/home/vant/Escritorio/harryWeb/node_modules/@parcel/core/test/PublicAsset.test.js499162500000000000 0
 63/home/vant/Escritorio/harryWeb/node_modules/lmdb/src/writer.cpp499162500000000000 0
 62/home/vant/Escritorio/harryWeb/node_modules/lmdb/src/lmdb-js.h499162500000000000 0
-56/home/vant/Escritorio/harryWeb/src/todos_personajes.html1648716555060218399 0
+56/home/vant/Escritorio/harryWeb/src/todos_personajes.html1649318097169775587 0
 77/home/vant/Escritorio/harryWeb/node_modules/htmlnano/docs/docs/050-modules.md499162500000000000 0
 64/home/vant/Escritorio/harryWeb/node_modules/lmdb/src/lmdb-js.cpp499162500000000000 0
 82/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/datalist.js499162500000000000 0
@@ -4371,13 +4506,14 @@
 63/home/vant/Escritorio/harryWeb/node_modules/lmdb/dict/dict2.txt499162500000000000 0
 74/home/vant/Escritorio/harryWeb/node_modules/@parcel/cache/src/LMDBCache.js499162500000000000 0
 62/home/vant/Escritorio/harryWeb/node_modules/lmdb/dict/dict.txt499162500000000000 0
+66/home/vant/Escritorio/harryWeb/dist/cedric_diggory.59dcddbb.js.map1649331262676832018 0
 59/home/vant/Escritorio/harryWeb/node_modules/posthtml-render1648713418761807638 1
 61/home/vant/Escritorio/harryWeb/node_modules/lmdb/package.json499162500000000000 0
 81/home/vant/Escritorio/harryWeb/node_modules/caniuse-lite/data/features/imports.js499162500000000000 0
 70/home/vant/Escritorio/harryWeb/node_modules/lmdb/util/RangeIterable.js499162500000000000 0
 80/home/vant/Escritorio/harryWeb/node_modules/cosmiconfig/dist/cacheWrapper.js.map499162500000000000 0
 65/home/vant/Escritorio/harryWeb/node_modules/lmdb/rollup.config.js499162500000000000 0
-56/home/vant/Escritorio/harryWeb/src/hermione_granger.html1648716712785355116 0
+56/home/vant/Escritorio/harryWeb/src/hermione_granger.html1649318097217775438 0
 74/home/vant/Escritorio/harryWeb/node_modules/lmdb/dependencies/lmdb-data-v11648713418685807301 1
 101/home/vant/Escritorio/harryWeb/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mtest6.c499162500000000000 0
 103/home/vant/Escritorio/harryWeb/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mdb_dump.c499162500000000000 0

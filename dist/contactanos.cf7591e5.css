@@ -107,7 +107,7 @@ main {
 #inicio {
   width: 60vh;
   height: 70vh;
-  border: 2px solid #000;
+  border: 3px solid #000;
   border-radius: 15px;
   flex-direction: column;
   justify-content: space-between;
@@ -136,11 +136,39 @@ main {
   height: 5vh;
   color: #000;
   text-align: center;
-  border: 2px solid #000;
+  border: 3px solid #000;
   border-radius: 15px;
   padding: 15px;
   font-family: Benne;
   font-size: 22px;
+}
+
+.titulo {
+  color: #ffbf00;
+  -webkit-text-stroke: 1px black;
+  text-align: center;
+  padding: 40px;
+  font-family: Harry P;
+  font-size: 45px;
+}
+
+.section_casas {
+  width: 95%;
+  margin: auto;
+  padding: 30px;
+}
+
+.casas {
+  border: 3px solid #000;
+  border-radius: 15px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 25px;
+  display: flex;
+}
+
+.titulo_casa {
+  text-align: center;
 }
 
 @media (max-width: 1400px) {
