@@ -106,4 +106,32 @@ main {
   padding: 3%;
 }
 
+#section_inicio {
+  min-height: 4vh;
+}
+
+#inicio {
+  min-height: 300px;
+  width: 40%;
+  min-width: 40vh;
+  border: 3px solid #000;
+  border-radius: 3%;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  margin: auto;
+  padding: 2%;
+  display: flex;
+}
+
+#caratula {
+  width: 50%;
+}
+
+#inicio > p {
+  text-align: center;
+  font-family: Benne;
+  font-size: 1.5rem;
+}
+
 /*# sourceMappingURL=contactanos.cf7591e5.css.map */
