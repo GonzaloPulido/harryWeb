@@ -100,14 +100,11 @@ footer {
 }
 
 main {
+  min-height: 70vh;
   background-image: url("fondo_body.cc497811.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   padding: 3%;
-}
-
-#section_inicio {
-  min-height: 80vh;
 }
 
 #inicio {
@@ -156,7 +153,6 @@ main {
 }
 
 .padre_listados {
-  min-height: 700px;
   flex-wrap: wrap;
   justify-content: space-between;
   align-items: center;
@@ -166,6 +162,7 @@ main {
 
 .elemento {
   width: 30%;
+  min-height: 32vh;
   border: 3px solid #000;
   border-radius: 10px;
   justify-content: space-between;
@@ -175,12 +172,95 @@ main {
   position: relative;
 }
 
-.foto {
-  width: 20%;
+.foto, .firma {
+  width: 100%;
 }
 
-.firma {
-  width: 30%;
+.div_imagen {
+  width: 25%;
+}
+
+.titulos {
+  width: 60%;
+}
+
+.titulo_elemento {
+  text-align: center;
+  font-family: Benne;
+  font-size: 2.5rem;
+}
+
+.button {
+  text-align: center;
+  color: #000;
+  border: 3px solid #000;
+  border-radius: 10px;
+  padding: 2%;
+  font-family: Benne;
+  font-size: 1.5rem;
+  position: absolute;
+  bottom: 4%;
+  right: 2%;
+}
+
+.casas {
+  border: 3px solid #000;
+  border-radius: 10px;
+  justify-content: space-around;
+  align-items: center;
+  padding: 3%;
+  font-family: Benne;
+  font-size: 1.5rem;
+  display: flex;
+}
+
+.container_casa {
+  text-align: center;
+}
+
+.titulo_casa {
+  margin-top: 10%;
+}
+
+.elementos_personaje {
+  border: 3px solid #000;
+  border-radius: 10px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2%;
+  font-family: Benne;
+  font-size: 2rem;
+  display: flex;
+}
+
+.varita1, .varita2 {
+  max-height: 250px;
+}
+
+.varita2 {
+  transform: rotate(180deg);
+}
+
+.div_personaje {
+  width: 15%;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.lista1_personaje {
+  align-content: center;
+  gap: .5rem;
+  display: flex;
+}
+
+.foto_personaje {
+  max-width: 20vh;
+}
+
+.firma_personaje {
+  width: 70%;
 }
 
 /*# sourceMappingURL=contactanos.cf7591e5.css.map */
