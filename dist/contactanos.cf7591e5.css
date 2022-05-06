@@ -263,4 +263,112 @@ main {
   width: 70%;
 }
 
+.registro_padre {
+  width: 30%;
+  border: 3px solid #000;
+  border-radius: 10px;
+  margin: auto;
+  padding: 2%;
+}
+
+.registro {
+  width: 80%;
+  flex-direction: column;
+  margin: auto;
+  font-family: Benne;
+  font-size: 1.8rem;
+  display: flex;
+}
+
+input, textarea {
+  width: 100%;
+  padding: 1%;
+}
+
+label {
+  margin-bottom: 8px;
+  padding: 7px;
+  display: block;
+}
+
+.enlace_registro {
+  color: #00008b;
+  font-size: 1.3rem;
+}
+
+.inicio_sesion_padre {
+  width: 30%;
+  border: 3px solid #000;
+  border-radius: 10px;
+  margin: auto;
+  padding: 1%;
+}
+
+.inicio_sesion {
+  width: 60%;
+  margin: auto;
+  font-family: Benne;
+  font-size: 25px;
+}
+
+.recordar {
+  align-items: center;
+  display: flex;
+}
+
+.input_recordar {
+  width: 7%;
+  margin-bottom: 1%;
+}
+
+.enlaces_inicio_sesion {
+  color: #00008b;
+  font-size: 1.3rem;
+}
+
+.contactos_padre {
+  width: 70%;
+  border: 3px solid #000;
+  border-radius: 10px;
+  place-content: center space-around;
+  align-items: center;
+  margin: auto;
+  padding: 2%;
+  font-family: Benne;
+  font-size: 25px;
+  display: flex;
+}
+
+.elementos_contactos {
+  width: 25%;
+}
+
+.fa-phone-volume, .fa-envelope, .fa-map-marker-alt {
+  margin-bottom: 20px;
+  margin-right: 20px;
+}
+
+.lista_info {
+  margin-bottom: 30px;
+}
+
+.titulo_redes {
+  margin-bottom: 8px;
+}
+
+.lista_iconos_contacto {
+  width: 30%;
+  place-content: center space-around;
+  align-items: center;
+  display: flex;
+}
+
+.varita_contacto {
+  max-height: 400px;
+}
+
+.redes {
+  color: #000;
+}
+
 /*# sourceMappingURL=contactanos.cf7591e5.css.map */
