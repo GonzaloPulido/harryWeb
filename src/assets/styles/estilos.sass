@@ -358,7 +358,7 @@ label
         transform: translate(750px,200px)
 
     50%
-        transform: translate(1500px,0px)
+        transform: translate(1150px,0px)
 
     75%
         transform: translate(750px,200px)
@@ -375,7 +375,7 @@ label
 
 
 // --------------------------------------------------------------------------------------------------------------------
-// --------- RESPONSIVE 1300px ---------
+// --------- RESPONSIVE 1350px ---------
 // --------- HEADER ---------
 @media screen and (max-width: 1350px)
     .nav_header
@@ -466,7 +466,7 @@ label
         text-align: center
         flex-direction: column
         margin: auto
-        width: 40%
+        width: 50%
         padding: 2%
         font-size: 1.5rem
     .elementos_personaje>ul
@@ -551,6 +551,155 @@ label
             transform: translate(550px,150px)
 
         50%
+            transform: translate(800px,0px)
+
+        75%
+            transform: translate(550px,150px)
+
+        100%
+            transform: translate(0,0)
+
+    .snitch
+        width: 20%
+        animation: movimiento_snitch 6s infinite
+
+    // --------- ERROR 404 ---------
+
+// --------- RESPONSIVE 1350px ---------
+
+// --------------------------------------------------------------------------------------------------------------------
+// --------- RESPONSIVE 1000px ---------
+// --------- HEADER ---------
+@media screen and (max-width: 1000px)
+    .nav_header
+        width: 60%
+    .apartados_head
+        font-size: 2.2rem
+    .iconos_head
+        width: 5%
+        font-size: 1.4rem
+    .logo
+        width: 80px
+    .iconos
+        color: $amarillo
+    // --------- HEADER ---------
+
+    // --------- FOOTER ---------
+    .nav_footer
+        width: 60%
+    .apartados_foot
+        font-size: 2.2rem
+    .iconos_foot
+        width: 6%
+        font-size: 1.4rem
+    // --------- FOOTER ---------
+
+    // --------- INICIO ---------
+    #caratula
+        width: 60%
+    #inicio
+        height: 570px
+        width: 45%
+
+
+    #inicio>p
+        width: 90%
+
+    #boton_inicio
+        width: 40%
+        height: 7%
+        padding: 2%
+
+    // --------- INICIO ---------
+
+    // --------- LISTADOS ---------
+    .elemento
+        width: 40%
+        min-height: 25vh
+        min-width: 500px
+
+    .div_imagen
+        width: 20%
+
+    .titulos
+        width: 80%
+
+    .titulo_elemento
+        font-size: 2.2rem
+
+    .button
+        font-size: 1.4rem
+
+
+    // --------- LISTADOS ---------
+
+    // --------- CASAS ---------
+    .section_casas
+        width: 50%
+    .casas
+        gap: 3rem
+    .logo_casas
+        width: 100%
+
+    // --------- CASAS ---------
+
+    // --------- REGISTRO ----------
+    .registro
+        width: 100%
+        font-size: 1.5rem
+
+    input,textarea
+        padding: 2%
+        width: 90%
+
+    .enlace_registro
+        font-size: 1.1rem
+
+    // --------- REGISTRO ---------
+
+    // --------- LOGIN ---------
+    .inicio_sesion_padre
+        margin-top: 100px
+        width: 40%
+
+    .inicio_sesion
+        width: 80%
+        font-size: 1.3rem
+
+    .input_recordar
+        width: 7%
+        margin-bottom: 2%
+
+    .enlaces_inicio_sesion
+        font-size: 1.2rem
+
+
+    // --------- LOGIN ---------
+
+    // --------- CONTACTANOS---------
+    .contactos_padre
+        font-size: 1.5rem
+        width: 45%
+
+    .lista_iconos_contacto
+        width: 40%
+
+    .varita_contacto
+        height: 250px
+        transform: rotate(90deg)
+
+    // --------- CONTACTANOS --------
+
+    // --------- ERROR 404 ---------
+    @keyframes movimiento_snitch
+
+        0%
+            transform: translate(0,0)
+
+        25%
+            transform: translate(50%,100%)
+
+        50%
             transform: translate(1000px,0px)
 
         75%
@@ -560,11 +709,12 @@ label
             transform: translate(0,0)
 
     .snitch
+        width: 30%
         animation: movimiento_snitch 6s infinite
 
-    // --------- ERROR 404 ---------
+// --------- ERROR 404 ---------
 
-// --------- RESPONSIVE 1300px ---------
+// --------- RESPONSIVE 1000px ---------
 
 
 
