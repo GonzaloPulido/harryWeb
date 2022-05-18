@@ -694,22 +694,22 @@ label {
     right: 3px;
   }
 
-  .respmenu input:checked ~ .fa-bars, .respmenu input:not(:checked) ~ .fa-times {
+  .respmenu input:checked ~ .fa-bars, .respmenu input:not(:checked) ~ .fa-times, .nav_footer {
     display: none;
   }
 
-  .nav_footer {
-    width: 60%;
-    flex-wrap: wrap;
-  }
-
-  .apartados_foot {
-    font-size: 2.2rem;
+  footer {
+    position: relative;
   }
 
   .iconos_foot {
-    width: 6%;
-    font-size: 1.4rem;
+    gap: 1rem;
+    position: absolute;
+    left: 46%;
+  }
+
+  .iconos_foot > li {
+    font-size: 2rem;
   }
 
   #caratula {
@@ -866,17 +866,10 @@ label {
     color: #ffbf00;
   }
 
-  .nav_footer {
-    width: 60%;
-  }
-
-  .apartados_foot {
-    font-size: 2.2rem;
-  }
-
   .iconos_foot {
-    width: 6%;
-    font-size: 1.4rem;
+    gap: 1rem;
+    position: absolute;
+    left: 45%;
   }
 
   #caratula {
