@@ -577,6 +577,8 @@ label
 // --------- RESPONSIVE 1000px ---------
 // --------- HEADER ---------
 @media screen and (max-width: 1000px)
+    header
+        padding-right: 25px
     .nav_header
         display: none
     .apartados_head
@@ -586,17 +588,17 @@ label
         font-size: 1.4rem
     .logo
         width: 80px
-    .iconos
-        color: $amarillo
     .respmenu a
-        color: inherit
         text-decoration: none
         display: block
         padding: 10px 20px
         border-bottom: 2px solid black
-        width: 200px
-        background-color: #FAD26D
+        width: 300px
+        background-color: #fad26d
         font-family: Benne
+        color: black
+        text-align: center
+
 
     .respmenu input[type="checkbox"], .respmenu .fa-bars, .respmenu .fa-times
         position: absolute
@@ -604,9 +606,9 @@ label
         margin: 0
         padding: 0
         right: 0
-        top: 0
-        width: 48px
-        height: 48px
+        top: 9px
+        width: 27px
+        height: 27px
 
 
     .respmenu .fa-bars, .respmenu .fa-times
@@ -630,21 +632,33 @@ label
         display: none
 
 
+
+
     .respmenu input:checked ~ nav
         display: block
+        position: absolute
+        border: 1px black solid
+        font-size: 1.7rem
+        right: 3px
+        top: 40px
+       
 
 
     .respmenu input:checked ~ .fa-bars
         display: none
 
 
+
     .respmenu input:not(:checked) ~ .fa-times
         display: none
+
+
     // --------- HEADER ---------
 
     // --------- FOOTER ---------
     .nav_footer
         width: 60%
+        flex-wrap: wrap
     .apartados_foot
         font-size: 2.2rem
     .iconos_foot
